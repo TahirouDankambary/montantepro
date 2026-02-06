@@ -1,0 +1,42 @@
+ [
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjZK-5dsCukugOieXNGKzjpDEJf3d90721A&s",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Forest",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "06/02/2026",
+    "pro": "Total: (+1.5)"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1280px-Eintracht_Frankfurt_crest.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "06/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "06/02/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/960px-Logo_Pisa_SC_2024.svg.png",
+    "name2": "Pisa",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "06/02/2026",
+    "pro": "1X"
+  }
+]
