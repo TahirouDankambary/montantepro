@@ -1,32 +1,42 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_FC_Lucerne.svg/500px-Logo_FC_Lucerne.svg.png",
-    "name1": "Luzem",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkuqJVjUWZ76BYd89W3f3U890av4S1eMt84A&s",
-    "name2": "Grasshopper Club",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_FC_Lugano_2025.svg/1280px-Logo_FC_Lugano_2025.svg.png",
+    "name1": "Lugano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcTQjVMtGtiLNTPK7pcMAu5V7KWc8qZyYpg&s",
+    "name2": "Servette",
     "champ": "Suisse. SuperLigue",
     "heure": "19H30",
-    "date": "10/02/2026",
+    "date": "11/02/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
-    "name1": "Venise FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_Modena_FC_-_2022.svg/langfr-250px-Logo_Modena_FC_-_2022.svg.png",
-    "name2": "Modena",
-    "champ": "Italie. Série B",
-    "heure": "19H00",
-    "date": "10/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/langfr-250px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
+    "name1": "Royale Union",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/250px-Royal_Charleroi_Sporting_Club_logo.svg.png",
+    "name2": "R.CHarleroi",
+    "champ": "Coupe de Belgique",
+    "heure": "19H30",
+    "date": "11/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://www.vhv.rs/dpng/d/521-5212940_heart-of-midlothian-fc-hd-logo-png-heart.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IVQdmK2FCIvblKyXnZUkjn0gcCuE_yqsig&s",
-    "name2": "Hibernian",
-    "champ": "Écosse. Première Ligue",
-    "heure": "20H00",
-    "date": "10/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlcEBJRJjL-o2a5G-2psivSsFJPihGlW6mvQ&s",
+    "name2": "Viborg",
+    "champ": "Coupe de Danemark",
+    "heure": "18H00",
+    "date": "11/02/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
+    "name1": "Charlton Athletic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVdYf17i1LtQI1vhX1I1WeehuCWyWfYtzbw&s",
+    "name2": "Stoke City",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "11/02/2026",
+    "pro": "Total: (+1)"
   }
 ]
