@@ -1,42 +1,42 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_FC_Lugano_2025.svg/1280px-Logo_FC_Lugano_2025.svg.png",
-    "name1": "Lugano",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcTQjVMtGtiLNTPK7pcMAu5V7KWc8qZyYpg&s",
-    "name2": "Servette",
-    "champ": "Suisse. SuperLigue",
-    "heure": "19H30",
-    "date": "11/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
+    "name1": "Molde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/FC_Metalist_Kharkiv.svg/langfr-250px-FC_Metalist_Kharkiv.svg.png",
+    "name2": "Metallist 1925",
+    "champ": "Match amicaux des clubs",
+    "heure": "15H00",
+    "date": "12/02/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/langfr-250px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
-    "name1": "Royale Union",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/250px-Royal_Charleroi_Sporting_Club_logo.svg.png",
-    "name2": "R.CHarleroi",
-    "champ": "Coupe de Belgique",
-    "heure": "19H30",
-    "date": "11/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Torpedo_Moscou_Logo_2023.svg/langfr-250px-Torpedo_Moscou_Logo_2023.svg.png",
+    "name1": "Torpedo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Jenis_Noursoultan_Logo.png/207px-Jenis_Noursoultan_Logo.png",
+    "name2": "Jenis",
+    "champ": "Match amicaux des clubs",
+    "heure": "13H30",
+    "date": "12/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
-    "name1": "Copenhague",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlcEBJRJjL-o2a5G-2psivSsFJPihGlW6mvQ&s",
-    "name2": "Viborg",
-    "champ": "Coupe de Danemark",
-    "heure": "18H00",
-    "date": "11/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
+    "name1": "Sochi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
+    "champ": "Match amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/02/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
-    "name1": "Charlton Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVdYf17i1LtQI1vhX1I1WeehuCWyWfYtzbw&s",
-    "name2": "Stoke City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/02/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d6/FC_Oleksandriya_Logo.png",
+    "name1": "Oleksandriia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b6/FC_Rustavi_logo.png",
+    "name2": "Rustavi",
+    "champ": "Match amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/02/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
