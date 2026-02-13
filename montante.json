@@ -1,42 +1,42 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
-    "name1": "Molde",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/FC_Metalist_Kharkiv.svg/langfr-250px-FC_Metalist_Kharkiv.svg.png",
-    "name2": "Metallist 1925",
-    "champ": "Match amicaux des clubs",
-    "heure": "15H00",
-    "date": "12/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCsDlXeNbHJIVG7Dzc4GYuh4EGN6EewJYhA&s",
+    "name1": "ADO La Haye",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_MVV_Maastricht.svg/langfr-250px-Logo_MVV_Maastricht.svg.png",
+    "name2": "MVV Maastricht",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Torpedo_Moscou_Logo_2023.svg/langfr-250px-Torpedo_Moscou_Logo_2023.svg.png",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Jenis_Noursoultan_Logo.png/207px-Jenis_Noursoultan_Logo.png",
-    "name2": "Jenis",
-    "champ": "Match amicaux des clubs",
-    "heure": "13H30",
-    "date": "12/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/langfr-250px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Roda_JC_Kerkrade.svg/500px-Roda_JC_Kerkrade.svg.png",
+    "name2": "Roda JC Kerkrade",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
-    "name2": "Dynamo Makhachkala",
-    "champ": "Match amicaux des clubs",
-    "heure": "14H00",
-    "date": "12/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/FC_Dordrecht.png/250px-FC_Dordrecht.png",
+    "name1": "Dordrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d6/FC_Oleksandriya_Logo.png",
-    "name1": "Oleksandriia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b6/FC_Rustavi_logo.png",
-    "name2": "Rustavi",
-    "champ": "Match amicaux des clubs",
-    "heure": "14H00",
-    "date": "12/02/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
+    "name1": "Amiens SC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7VMzHCbS_MpQK0Nh8j6Gb0_QCzWR90H8TQ&s",
+    "name2": "USL Dunkerque",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
