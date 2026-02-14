@@ -1,42 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCsDlXeNbHJIVG7Dzc4GYuh4EGN6EewJYhA&s",
-    "name1": "ADO La Haye",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_MVV_Maastricht.svg/langfr-250px-Logo_MVV_Maastricht.svg.png",
-    "name2": "MVV Maastricht",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/02/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-250px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille OSC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/1280px-Logo_Stade_Brestois.svg.png",
+    "name2": "Stade Brestois",
+    "champ": "France. Ligue 1",
+    "heure": "18H00",
+    "date": "14/02/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/langfr-250px-RKC_Waalwijk_%28logo%29.svg.png",
-    "name1": "Waalwijk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Roda_JC_Kerkrade.svg/500px-Roda_JC_Kerkrade.svg.png",
-    "name2": "Roda JC Kerkrade",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/langfr-250px-Heracles_Almelo_%28logo%29.svg.png",
+    "name1": "Heracles Almelo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_NAC_Breda_2024.svg/langfr-250px-Logo_NAC_Breda_2024.svg.png",
+    "name2": "NAC Breda",
     "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/02/2026",
+    "heure": "15H30",
+    "date": "14/02/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/FC_Dordrecht.png/250px-FC_Dordrecht.png",
-    "name1": "Dordrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
-    "name2": "Emmen",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
-    "name1": "Amiens SC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7VMzHCbS_MpQK0Nh8j6Gb0_QCzWR90H8TQ&s",
-    "name2": "USL Dunkerque",
-    "champ": "France. Ligue 2",
-    "heure": "19H00",
-    "date": "13/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Paris_FC_2024.svg/langfr-250px-Logo_Paris_FC_2024.svg.png",
+    "name1": "Paris FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/960px-Logo_RC_Lens.svg.png",
+    "name2": "RC Lens",
+    "champ": "France. Ligue 1",
+    "heure": "20H05",
+    "date": "14/02/2026",
+    "pro": "Total: (-4.5)"
   }
 ]
