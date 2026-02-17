@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ar/archive/e/ec/20230820102846%21Al_Shorta_Sports_Club_Logo_%28Iraq%29.png",
-    "name1": "Al-Shorta Baghdad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_Al-Duhail_SC_2016.svg/langfr-250px-Logo_Al-Duhail_SC_2016.svg.png",
-    "name2": "Al-Duhail",
-    "champ": "AFC Champions League Elite",
-    "heure": "18H15",
-    "date": "16/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1280px-Logo_Cardiff_City_FC_2015.svg.png",
+    "name1": "Cardiff City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AFC_Wimbledon_%282020%29_logo.svg/250px-AFC_Wimbledon_%282020%29_logo.svg.png",
+    "name2": "Tournoi de Wimbledon",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/langfr-250px-Logo_S%C3%B8nderjyskE.svg.png",
-    "name1": "Sonderjyske",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzb0TRqhxNcKVGNndhklq8OlGqxZ-UlPRmA&s",
-    "name2": "Silkeborg",
-    "champ": "Danemark. Superliga",
-    "heure": "18H00",
-    "date": "16/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1280px-Logo_Stevenage_FC_2019.svg.png",
+    "name1": "Stevenage",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/langfr-250px-Logo_Port_Vale_FC.svg.png",
+    "name2": "Port Vale",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_Bruk-Bet_Termalica_Nieciecza.png/250px-Logo_Bruk-Bet_Termalica_Nieciecza.png",
-    "name1": "Bruk-Bet Termalica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/langfr-250px-Logo_Gornik_Zabrze.svg.png",
-    "name2": "Gornik Zabrze",
-    "champ": "Championnat de Pologne",
-    "heure": "18H00",
-    "date": "16/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/1280px-Logo_Exeter_City_FC_2016.svg.png",
+    "name1": "Exeter City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMk54EN8ac17bx2a4g303XWkZsvzPidAwV3g&s",
+    "name2": "Wycombe Wanderers",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "17/02/2026",
     "pro": "Total: (+1.5)"
   }
 ]
