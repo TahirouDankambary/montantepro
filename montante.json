@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1280px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name1": "Cardiff City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AFC_Wimbledon_%282020%29_logo.svg/250px-AFC_Wimbledon_%282020%29_logo.svg.png",
-    "name2": "Tournoi de Wimbledon",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg/langfr-250px-FC_Nordsj%C3%A6lland_%28logo%29.svg.png",
+    "name1": "Nordsjaelland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1280px-Logo_Eintracht_Francfort.svg.png",
+    "name2": "Frankfurt (Femmes)",
+    "champ": "Coupe d'Europe. UEFA. Femmes",
+    "heure": "17H00",
+    "date": "18/02/2026",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1280px-Logo_Stevenage_FC_2019.svg.png",
-    "name1": "Stevenage",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/langfr-250px-Logo_Port_Vale_FC.svg.png",
-    "name2": "Port Vale",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/langfr-250px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
+    "name1": "Breidablik (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/langfr-250px-Logo_BK_H%C3%A4cken_2021.svg.png",
+    "name2": "Hacken (Femmes)",
+    "champ": "Coupe d'Europe. UEFA. Femmes",
+    "heure": "18H00",
+    "date": "18/02/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/1280px-Logo_Exeter_City_FC_2016.svg.png",
-    "name1": "Exeter City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMk54EN8ac17bx2a4g303XWkZsvzPidAwV3g&s",
-    "name2": "Wycombe Wanderers",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "17/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Austria_Wien.svg/langfr-250px-Austria_Wien.svg.png",
+    "name1": "Austria Wien",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+    "name2": "AC Sparta Prague",
+    "champ": "Coupe d'Europe. UEFA. Femmes",
+    "heure": "18H30",
+    "date": "18/02/2026",
     "pro": "Total: (+1.5)"
   }
 ]
