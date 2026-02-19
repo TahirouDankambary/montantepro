@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg/langfr-250px-FC_Nordsj%C3%A6lland_%28logo%29.svg.png",
-    "name1": "Nordsjaelland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1280px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt (Femmes)",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "17H00",
-    "date": "18/02/2026",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7PLu3uE5npcNvOh9-asHO-bHJpyI8PW5aQ&s",
+    "name1": "Jagiellonia Białystok",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "19/02/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/langfr-250px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name1": "Breidablik (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/langfr-250px-Logo_BK_H%C3%A4cken_2021.svg.png",
-    "name2": "Hacken (Femmes)",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "18H00",
-    "date": "18/02/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/langfr-250px-Sk_sigma.svg.png",
+    "name1": "Sigma Olomouc",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9cjT2Qma8M2ZHnxiaNWz_9zbyVxjcLIX5Q&s",
+    "name2": "Lausanne-Sport",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H45",
+    "date": "19/02/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Austria_Wien.svg/langfr-250px-Austria_Wien.svg.png",
-    "name1": "Austria Wien",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "AC Sparta Prague",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "18H30",
-    "date": "18/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyA9SDN4MtnovutYBR6JaVvIl9vaHlsrgMw&s",
+    "name1": "KF Drita",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png",
+    "name2": "Celje",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "19/02/2026",
+    "pro": "2X"
   }
 ]
