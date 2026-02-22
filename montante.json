@@ -1,42 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
-    "name1": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "21/02/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
+    "name1": "Atalanta",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s",
+    "name2": "SSC Naples",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "22/02/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "name2": "Espanyol",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "21/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
+    "name1": "Milan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPncJcMHKCslz2OmyqBqHEfyxU2HgLhlXKg&s",
+    "name2": "Parma",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "22/02/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1280px-US_Lecce_2023.svg.png",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
+    "name2": "Cremonese",
     "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "21/02/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/960px-Logo_RC_Lens.svg.png",
-    "name1": "RC Lens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name2": "AS Monaco",
-    "champ": "France. Ligue 1",
-    "heure": "16H00",
-    "date": "21/02/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "19H45",
+    "date": "22/02/2026",
+    "pro": "12"
   }
 ]
