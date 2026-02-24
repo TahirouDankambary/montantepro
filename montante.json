@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
-    "name1": "Atalanta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s",
-    "name2": "SSC Naples",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "22/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesYzIvWH6aZRgLCQ8pjphoaKFQmu4q-wyRg&s",
+    "name2": "Queens Park Rangers",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "24/02/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
-    "name1": "Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPncJcMHKCslz2OmyqBqHEfyxU2HgLhlXKg&s",
-    "name2": "Parma",
-    "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "22/02/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBisTVoOLrozIG7ksIG99jhuQ6iY5v1K6PLw&s",
+    "name1": "Bradford City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Rotherham_United_F.C._svg.svg/250px-Rotherham_United_F.C._svg.svg.png",
+    "name2": "Rotherham United",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "24/02/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
-    "name2": "Cremonese",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burton_Albion_FC_crest.svg/1280px-Burton_Albion_FC_crest.svg.png",
+    "name1": "Burton Albion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1280px-Stockport_County_FC_logo_2020.svg.png",
+    "name2": "Stockport County",
+    "champ": "Angleterre. Ligue 1",
     "heure": "19H45",
-    "date": "22/02/2026",
-    "pro": "12"
+    "date": "24/02/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
