@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-S4HeOapv9fFeBLmLFGQM2R7o6vhDp83WQ&s",
-    "name1": "Yeovil Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Sutton_United_FC.svg/1280px-Logo_Sutton_United_FC.svg.png",
-    "name2": "Sutton United",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1280px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_Jagiellonia_Bia%C5%82ystok_%282021%29.svg/960px-Logo_Jagiellonia_Bia%C5%82ystok_%282021%29.svg.png",
+    "name2": "Jagiellonia Białystok",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEYV9QOaabVZzwXWbozyuPLDYe0BOF2WQAQ&s",
-    "name1": "Eastleigh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Truro_City_FC_crest.svg/250px-Truro_City_FC_crest.svg.png",
-    "name2": "Truro City",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/NK_Celje_logo.png/1280px-NK_Celje_logo.png",
+    "name1": "Celje",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyA9SDN4MtnovutYBR6JaVvIl9vaHlsrgMw&s",
+    "name2": "KF Drita",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Hartlepool_United_FC_-_2017.svg/langfr-250px-Logo_Hartlepool_United_FC_-_2017.svg.png",
-    "name1": "Hartlepool United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Logo_Carlisle_United_FC_1995.svg/1280px-Logo_Carlisle_United_FC_1995.svg.png",
-    "name2": "Carlisle United",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Crystal_Palace_FC_logo.svg/1280px-Crystal_Palace_FC_logo.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mu4PbTaG1iAHWqRQ_RV6x9VsD8wHi_lo_A&s",
+    "name2": "HSK Zrinjski Mostar",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "26/02/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
