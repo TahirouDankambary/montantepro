@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YBbo2gUKAlmOpJTlepe0xND8icXSjuCa7g&s",
-    "name1": "Sporting",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAF3G4mgxMdcqN8FwYbzFwuAZueHylQNFYw&s",
-    "name2": "Estoril",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H45",
-    "date": "27/02/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/330px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "name1": "Borussia Monchengladbach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name2": "Union Berlin",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "28/02/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1280px-Logo_Bristol_City_FC_2019.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Watford_FC_2001.svg/1280px-Logo_Watford_FC_2001.svg.png",
-    "name2": "Watford",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "27/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Bayer 04",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1280px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "28/02/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQcNcGsyvrBkM_3OPPIOFvwAzGAipm2UClQ&s",
-    "name1": "Trabzonspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg/1280px-Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg.png",
-    "name2": "Fatih Karagumruk",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "27/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3IDTBe8jrt6FCpSuknrwqBTH2dJxKJfnXA&s",
+    "name1": "Nacional da Madeira",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzj6IoBrtn3PLaUTZ3J1-SIhoqvceJiGxkA&s",
+    "name2": "Braga",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H00",
+    "date": "28/02/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
