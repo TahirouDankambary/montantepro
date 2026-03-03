@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LfZdGw66sMs9HM3u_I5IDp6r_aE0xvC_Cw&s",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name2": "Lyon",
-    "champ": "France. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/960px-Logo_Ipswich_Town_2024.svg.png",
+    "name1": "Ipswich Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/960px-Hull_City_AFC_logo.svg.png",
+    "name2": "Hull City",
+    "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
+    "date": "03/03/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/960px-Logo_LOSC_Lille_2018.svg.png",
-    "name1": "Lille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/langfr-250px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
-    "name2": "Nantes",
-    "champ": "France. Ligue 1",
-    "heure": "16H15",
-    "date": "01/03/2026",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX4EVxP_9C_3AmsQkqHV7w-Wr5R8LiWOIHg&s",
+    "name1": "Calcio Padova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_Spezia_Calcio_2025.svg/1280px-Logo_Spezia_Calcio_2025.svg.png",
+    "name2": "Spezia",
+    "champ": "Italie. Série B",
+    "heure": "18H00",
+    "date": "03/03/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Excelsior_Rotterdam_logo_2002.svg/960px-Excelsior_Rotterdam_logo_2002.svg.png",
-    "name1": "Excelsior",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3A9m3i3YZT7MHNGj360Dbdhp92rH8xWHhnA&s",
-    "name2": "Go Ahead Eagles",
-    "champ": "Pays-Bas. Eredivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
+    "name1": "Venise FC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hVR1dH6zxyQUQ2QtIeNNsgAvbKuAgBAb7A&s",
+    "name2": "Avellino 1912",
+    "champ": "Italie. Série B",
     "heure": "19H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+2)"
+    "date": "03/03/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
