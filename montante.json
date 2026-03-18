@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfOpX0K3KeNSUBjfqnLBBVvI2YjHGJ5e6PGw&s",
-    "name1": "Mantova",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_9GIgL3TyJeOYZl-JX7Ckfnec6seXKgSVw&s",
-    "name2": "Cesena",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1434tML0MGILEFw2HMEiVDuQ5JMf17LB2A&s",
+    "name1": "Carrarese Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1920px-Logo_Sampdoria.svg.png",
+    "name2": "Sampdoria",
     "champ": "Italie. Série B",
     "heure": "19H00",
-    "date": "17/03/2026",
+    "date": "18/03/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3OVQERXRkQ57phhDXjIfGeJ7h_amYKp6FA&s",
-    "name1": "Reggiana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_of_AC_Monza.png/250px-Logo_of_AC_Monza.png",
-    "name2": "Monza",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Pescara_Calcio_2023.svg/960px-Logo_Pescara_Calcio_2023.svg.png",
+    "name1": "Delfino Pescara",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Virtus_Entella_2005.svg/1920px-Logo_Virtus_Entella_2005.svg.png",
+    "name2": "Virtus Entella",
     "champ": "Italie. Série B",
     "heure": "19H00",
-    "date": "17/03/2026",
-    "pro": "12"
+    "date": "18/03/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_Spezia_Calcio_2025.svg/1280px-Logo_Spezia_Calcio_2025.svg.png",
-    "name1": "Spezia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
-    "name2": "Empoli",
-    "champ": "Italie. Série B",
-    "heure": "19H00",
-    "date": "17/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SV_Ried.svg/500px-SV_Ried.svg.png",
+    "name1": "SV Ried",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/langfr-250px-LASK-Logo_2023.svg.png",
+    "name2": "LASK Linz",
+    "champ": "Coupe d'Autriche",
+    "heure": "17H00",
+    "date": "18/03/2026",
     "pro": "Total: (+1.5)"
   }
 ]
