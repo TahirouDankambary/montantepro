@@ -1,103 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name1": "Lyon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name2": "Celta de Vigo",
-    "champ": "Ligue Europa",
-    "heure": "17H45",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GX7MOxLWo2XNrpTuPtXiuyCeG-qtg3Qlyw&s",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1280px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name2": "Lokomotiv Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H30",
     "date": "19/03/2026",
-    "pro": "Total: (+1)"
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
-    "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Nottingham_Forest.png",
-    "name2": "Forest",
-    "champ": "Ligue Europa",
-    "heure": "17H45",
-    "date": "19/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/langfr-250px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
-    "name2": "Genk",
-    "champ": "Ligue Europa",
-    "heure": "17H45",
-    "date": "19/03/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi94vaaTxNIpkMaNWA5vl8ssyEZ323aTOLkw&s",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/960px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "18/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUawC4iyVbJrVsKcff86ZO8cklvjZVJiQ8VQ&s",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "19/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLBcWBBijqbC8Ut0F7mKJBqA2aq7-yRkAsg&s",
-    "name2": "Panathinaikos",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "19/03/2026",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
-    "name1": "Roma",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVAfjlUkL0kXalqkl3cFYsmv3VvYEjalAlA&s",
-    "name2": "Bologna",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "19/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AEK_Basketball_Club_Logo.svg/1920px-AEK_Basketball_Club_Logo.svg.png",
-    "name1": "AEK Athènes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
-    "name2": "Celje",
-    "champ": "Ligue Conférence",
-    "heure": "17H45",
-    "date": "19/03/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/langfr-250px-AEK_Larnaca.svg.png",
-    "name1": "AEK Larnaca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Ligue Conférence",
-    "heure": "17H45",
-    "date": "19/03/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1280px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name1": "Rayo Vallecano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
-    "name2": "Samsunspor",
-    "champ": "Ligue Conférence",
-    "heure": "20H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1280px-Konyaspor_%28logo%29.svg.png",
+    "name1": "Konyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/Gen%C3%A7lerbirli%C4%9Fi_S.K._%28logo%29.svg/1280px-Gen%C3%A7lerbirli%C4%9Fi_S.K._%28logo%29.svg.png",
+    "name2": "Genclerbirligi",
+    "champ": "Turquie. Süper Lig",
+    "heure": "17H00",
     "date": "19/03/2026",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU44GNiBcEi_xR3qfJ4-tm2lNSlHpYoDCT4g&s",
+    "name1": "Rakow Czestochowa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Ligue Conférence",
+    "heure": "17H45",
+    "date": "19/03/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
