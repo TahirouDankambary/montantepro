@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50109bexT6getNzg-t_u-0wp5cGmgUjUY2Q&s",
-    "name1": "Internacional de Bogota",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Once_Caldas.png",
-    "name2": "Once Caldas",
-    "champ": "Championnat de Colombie. Femmes",
-    "heure": "20H00",
-    "date": "30/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/3840px-Flag_of_Peru_%28state%29.svg.png",
+    "name1": "Pérou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Honduras_%282022%E2%80%932026%29.svg/3840px-Flag_of_Honduras_%282022%E2%80%932026%29.svg.png",
+    "name2": "Honduras",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H00",
+    "date": "31/03/2026",
     "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/c7/Real_Santander_logo.png",
-    "name1": "Real Santander",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3e/Llaneros_F.C.png",
-    "name2": "Llaneros",
-    "champ": "Championnat de Colombie. Femmes",
-    "heure": "20H00",
-    "date": "30/03/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
+    "name1": "Algérie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+    "name2": "Uruguay",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H30",
+    "date": "31/03/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_de_Atl_Junior.png",
-    "name1": "Junior",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Atletico_Nacional_Logo.svg/langfr-250px-Atletico_Nacional_Logo.svg.png",
-    "name2": "Atletico Nacional",
-    "champ": "Championnat de Colombie. Femmes",
-    "heure": "21H00",
-    "date": "30/03/2026",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1280px-Flag_of_Scotland.svg.png",
+    "name1": "Écosse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/langfr-250px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "name2": "Côte d'Ivoire",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H30",
+    "date": "31/03/2026",
+    "pro": "2X"
   }
 ]
