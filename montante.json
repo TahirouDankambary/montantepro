@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/3840px-Flag_of_Peru_%28state%29.svg.png",
-    "name1": "Pérou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Honduras_%282022%E2%80%932026%29.svg/3840px-Flag_of_Honduras_%282022%E2%80%932026%29.svg.png",
-    "name2": "Honduras",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "18H00",
-    "date": "31/03/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkxpvRR1n4Jig5aL-zd5bKKWdXUOTJz9n9w&s",
+    "name1": "Karkonosze Jelenia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fa/MKS_Kluczbork_badge.png",
+    "name2": "Kluczbork",
+    "champ": "Pologne. Liga 3",
+    "heure": "16H00",
+    "date": "01/04/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1280px-Flag_of_Algeria.svg.png",
-    "name1": "Algérie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
-    "name2": "Uruguay",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "18H30",
-    "date": "31/03/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cb/KSLechiaZielonaG%C3%B3ra.png",
+    "name1": "Lechia Zielona Gora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cc/%C5%81KS_Gocza%C5%82kowice-Zdr%C3%B3j_logo.png",
+    "name2": "LKS Goczalkowice",
+    "champ": "Pologne. Liga 3",
+    "heure": "17H00",
+    "date": "01/04/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1280px-Flag_of_Scotland.svg.png",
-    "name1": "Écosse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/langfr-250px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name2": "Côte d'Ivoire",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "18H30",
-    "date": "31/03/2026",
+    "photo1": "https://static.wikia.nocookie.net/kibice/images/c/cc/PoloniaNysaherb.png/revision/latest?cb=20250721215420&path-prefix=pl",
+    "name1": "Polonia Nysa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnTm_NTpTcXzQRwR5JlxE3Ljy0SQxUruy1Q&s",
+    "name2": "Gornik Polkowice",
+    "champ": "Pologne. Liga 3",
+    "heure": "17H00",
+    "date": "01/04/2026",
     "pro": "2X"
   }
 ]
