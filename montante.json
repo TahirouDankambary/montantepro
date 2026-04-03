@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkxpvRR1n4Jig5aL-zd5bKKWdXUOTJz9n9w&s",
-    "name1": "Karkonosze Jelenia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fa/MKS_Kluczbork_badge.png",
-    "name2": "Kluczbork",
-    "champ": "Pologne. Liga 3",
-    "heure": "16H00",
-    "date": "01/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/73/VitoriaSC-1924.png",
+    "name1": "Vitoria Guimaraes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGfiG25f0IyeHVDPkTyEpDh2W-a6bM7-bsA&s",
+    "name2": "Tondela",
+    "champ": "Portugal. Première Ligue",
+    "heure": "17H00",
+    "date": "03/04/2026",
+    "pro": "12"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cb/KSLechiaZielonaG%C3%B3ra.png",
-    "name1": "Lechia Zielona Gora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cc/%C5%81KS_Gocza%C5%82kowice-Zdr%C3%B3j_logo.png",
-    "name2": "LKS Goczalkowice",
-    "champ": "Pologne. Liga 3",
-    "heure": "17H00",
-    "date": "01/04/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtO8aUa4Ysaa_DvyvwlFZWlynbcvzmQP0vXA&s",
+    "name2": "Santa Clara",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H30",
+    "date": "03/04/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://static.wikia.nocookie.net/kibice/images/c/cc/PoloniaNysaherb.png/revision/latest?cb=20250721215420&path-prefix=pl",
-    "name1": "Polonia Nysa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnTm_NTpTcXzQRwR5JlxE3Ljy0SQxUruy1Q&s",
-    "name2": "Gornik Polkowice",
-    "champ": "Pologne. Liga 3",
-    "heure": "17H00",
-    "date": "01/04/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/langfr-250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
+    "name2": "Genk",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H45",
+    "date": "03/04/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
