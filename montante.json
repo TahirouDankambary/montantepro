@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM722jiou984syvA3bido5hK9QRfcQmwf6A&s",
-    "name1": "SC Telstar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/FC_Groningen_%28logo%29.svg/1280px-FC_Groningen_%28logo%29.svg.png",
-    "name2": "Groningen",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "16H45",
-    "date": "04/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_RAAL_La_Louvi%C3%A8re_2025.svg/langfr-250px-Logo_RAAL_La_Louvi%C3%A8re_2025.svg.png",
+    "name1": "RAAL La Louviere",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/FCVDEH.png/250px-FCVDEH.png",
+    "name2": "FCV Dender EH",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "14H00",
+    "date": "06/04/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/79/Ajax_Amsterdam.svg/3840px-Ajax_Amsterdam.svg.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_FC_Twente_2018.svg/1920px-Logo_FC_Twente_2018.svg.png",
-    "name2": "Twente",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "04/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/langfr-250px-Logo_KAA_Gent_2024.svg.png",
+    "name1": "KAA La Gantoise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_KV_Mechelen_2024.svg/langfr-250px-Logo_KV_Mechelen_2024.svg.png",
+    "name2": "Mechelen",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "16H30",
+    "date": "06/04/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWWOxKy5J8r0M8dW5jLbY1ugP8bZFnGzOGA&s",
-    "name1": "Excelsior",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/3/34/NEC_Nijmegen.svg/960px-NEC_Nijmegen.svg.png",
-    "name2": "NEC",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "04/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/langfr-250px-Real_Sporting_de_Gijon.svg.png",
+    "name1": "Sporting de Gijon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsibS1fcacac5YYw4xX3S5QQLtiAPUJTNrg&s",
+    "name2": "Real Sociedad",
+    "champ": "Espagne. Division 2",
+    "heure": "18H30",
+    "date": "06/04/2026",
+    "pro": "12"
   }
 ]
