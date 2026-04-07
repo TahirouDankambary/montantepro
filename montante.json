@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_RAAL_La_Louvi%C3%A8re_2025.svg/langfr-250px-Logo_RAAL_La_Louvi%C3%A8re_2025.svg.png",
-    "name1": "RAAL La Louviere",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/FCVDEH.png/250px-FCVDEH.png",
-    "name2": "FCV Dender EH",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "14H00",
-    "date": "06/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdbDrZ6k-_tst3HSIZkdlnC2CD8SVjZs7Pw&s",
+    "name1": "Belgrano ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_Colon_Con_Estrella.png/250px-Escudo_Colon_Con_Estrella.png",
+    "name2": "Colon de Santa Fe",
+    "champ": "Argentine. Ligue de réserve",
+    "heure": "18H00",
+    "date": "07/04/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/langfr-250px-Logo_KAA_Gent_2024.svg.png",
-    "name1": "KAA La Gantoise",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_KV_Mechelen_2024.svg/langfr-250px-Logo_KV_Mechelen_2024.svg.png",
-    "name2": "Mechelen",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "16H30",
-    "date": "06/04/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png",
+    "name1": "Godoy Cruz Antonio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_Rosario_Central_2026.svg/1280px-Logo_Rosario_Central_2026.svg.png",
+    "name2": "Rosario Central",
+    "champ": "Argentine. Ligue de réserve",
+    "heure": "18H00",
+    "date": "07/04/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/langfr-250px-Real_Sporting_de_Gijon.svg.png",
-    "name1": "Sporting de Gijon",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsibS1fcacac5YYw4xX3S5QQLtiAPUJTNrg&s",
-    "name2": "Real Sociedad",
-    "champ": "Espagne. Division 2",
-    "heure": "18H30",
-    "date": "06/04/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_CA_Independiente_1987.svg/1280px-Logo_CA_Independiente_1987.svg.png",
+    "name1": "CA Independiente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg/1280px-Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg.png",
+    "name2": "Atlético de Rafaela",
+    "champ": "Argentine. Ligue de réserve",
+    "heure": "18H00",
+    "date": "07/04/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
