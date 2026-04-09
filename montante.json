@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdbDrZ6k-_tst3HSIZkdlnC2CD8SVjZs7Pw&s",
-    "name1": "Belgrano ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Escudo_Colon_Con_Estrella.png/250px-Escudo_Colon_Con_Estrella.png",
-    "name2": "Colon de Santa Fe",
-    "champ": "Argentine. Ligue de réserve",
-    "heure": "18H00",
-    "date": "07/04/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnByGCKFx4T49wgNhLuwT8olr-aaOfSHvg&s",
+    "name1": "Boluspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Sivasspor_-_Logo.svg/1920px-Sivasspor_-_Logo.svg.png",
+    "name2": "Sivasspor",
+    "champ": "Turquie. TFF 1. Ligue 1",
+    "heure": "14H00",
+    "date": "09/04/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png",
-    "name1": "Godoy Cruz Antonio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_Rosario_Central_2026.svg/1280px-Logo_Rosario_Central_2026.svg.png",
-    "name2": "Rosario Central",
-    "champ": "Argentine. Ligue de réserve",
-    "heure": "18H00",
-    "date": "07/04/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_%C4%B0stanbulspor.svg/1280px-Logo_%C4%B0stanbulspor.svg.png",
+    "name1": "Istanbulspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_BB_Erzurumspor_%282014_-_2022%29.svg/1920px-Logo_BB_Erzurumspor_%282014_-_2022%29.svg.png",
+    "name2": "BB Erzurum",
+    "champ": "Turquie. TFF 1. Ligue 1",
+    "heure": "17H00",
+    "date": "09/04/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_CA_Independiente_1987.svg/1280px-Logo_CA_Independiente_1987.svg.png",
-    "name1": "CA Independiente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg/1280px-Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg.png",
-    "name2": "Atlético de Rafaela",
-    "champ": "Argentine. Ligue de réserve",
-    "heure": "18H00",
-    "date": "07/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Esenler_Erokspor_logo.png",
+    "name1": "Esenler Erokspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/18/AmedSFKLogo.png",
+    "name2": "Amedspor",
+    "champ": "Turquie. TFF 1. Ligue 1",
+    "heure": "17H00",
+    "date": "09/04/2026",
     "pro": "Total: (+1.5)"
   }
 ]
