@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnByGCKFx4T49wgNhLuwT8olr-aaOfSHvg&s",
-    "name1": "Boluspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Sivasspor_-_Logo.svg/1920px-Sivasspor_-_Logo.svg.png",
-    "name2": "Sivasspor",
-    "champ": "Turquie. TFF 1. Ligue 1",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvor-Ue5075275Rn5xczeZSBFthDqX0xxskA&s",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/a/ae/Everton_FC_logo_2014.png",
+    "name2": "Everton",
+    "champ": "Angleterre. Premier League",
     "heure": "14H00",
-    "date": "09/04/2026",
+    "date": "11/04/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_%C4%B0stanbulspor.svg/1280px-Logo_%C4%B0stanbulspor.svg.png",
-    "name1": "Istanbulspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_BB_Erzurumspor_%282014_-_2022%29.svg/1920px-Logo_BB_Erzurumspor_%282014_-_2022%29.svg.png",
-    "name2": "BB Erzurum",
-    "champ": "Turquie. TFF 1. Ligue 1",
-    "heure": "17H00",
-    "date": "09/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_Burnley_FC_2023.svg/1280px-Logo_Burnley_FC_2023.svg.png",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1280px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "name2": "Brighton",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "11/04/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Esenler_Erokspor_logo.png",
-    "name1": "Esenler Erokspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/18/AmedSFKLogo.png",
-    "name2": "Amedspor",
-    "champ": "Turquie. TFF 1. Ligue 1",
-    "heure": "17H00",
-    "date": "09/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1280px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "11/04/2026",
+    "pro": "Total: (+2)"
   }
 ]
