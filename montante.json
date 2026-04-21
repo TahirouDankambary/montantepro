@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
-    "name1": "Chakhtar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/9b/FC_Polissya_Zhytomyr.png",
-    "name2": "Polissya Jytomyr",
-    "champ": "Ukraine. Premier-Liha",
-    "heure": "15H00",
-    "date": "20/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/FK_Rostov.svg/1280px-FK_Rostov.svg.png",
+    "name2": "Rostov",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H45",
+    "date": "21/04/2026",
     "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7VMzHCbS_MpQK0Nh8j6Gb0_QCzWR90H8TQ&s",
-    "name1": "USL Dunkerque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Stade_Lavallois_MFC_2025.svg/langfr-250px-Logo_Stade_Lavallois_MFC_2025.svg.png",
-    "name2": "Stade Lavallois",
-    "champ": "France. Ligue 2",
-    "heure": "18H45",
-    "date": "20/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1280px-Konyaspor_%28logo%29.svg.png",
+    "name1": "Konyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/1280px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Coupe de Turquie",
+    "heure": "17H30",
+    "date": "21/04/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/IK_Oddevold_logo.svg/1280px-IK_Oddevold_logo.svg.png",
-    "name1": "Oddevold",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdESTeb5-QwiAHIEjpy-xCMW_0PhOI5Gw8Q&s",
-    "name2": "Osters",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "20/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1280px-Logo_West_Bromwich_Albion.svg.png",
+    "name1": "West Bromwich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Watford_FC_2001.svg/1280px-Logo_Watford_FC_2001.svg.png",
+    "name2": "Watford",
+    "champ": "Angleterre. Championship",
+    "heure": "18H45",
+    "date": "21/04/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
