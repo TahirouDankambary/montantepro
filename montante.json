@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8r2tgeidPz6KCT5C6YkV3fZDkynmNDQQkQg&s",
-    "name1": "Cologne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_MdwqrWgMRpBzz4CNFWrLnPswPVcvOvtVA&s",
-    "name2": "Bayer",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "25/04/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/250px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "26/04/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1280px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "25/04/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/OHK_Dinamo.png/250px-OHK_Dinamo.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
+    "name2": "Sochi",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H00",
+    "date": "26/04/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgBaILKgFiotLflLCbrSLiw3Y1B_6iRbmNQ&s",
-    "name2": "Barcelone",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "25/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H00",
+    "date": "26/04/2026",
     "pro": "Total: (+1.5)"
   }
 ]
