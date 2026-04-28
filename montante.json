@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/250px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds United",
-    "champ": "Coupe d'Angleterre",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%B2%D8%AF.png",
+    "name1": "ZED",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b4/Pharco_FC_Logo.png",
+    "name2": "Pharco",
+    "champ": "Égypte. Première Ligue",
     "heure": "14H00",
-    "date": "26/04/2026",
-    "pro": "Total: (+2)"
+    "date": "28/04/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/OHK_Dinamo.png/250px-OHK_Dinamo.png",
-    "name1": "Dynamo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
-    "name2": "Sochi",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H00",
-    "date": "26/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzyvpxRt_MTZ45i1GaTHdAkWhTwjJJC4lgQ&s",
+    "name1": "Hednesford Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/24/Stockton_Town_F.C._logo.png",
+    "name2": "Stockton Town",
+    "champ": "Angleterre. Northern Première Ligue",
+    "heure": "18H45",
+    "date": "28/04/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
-    "name2": "Dynamo Makhachkala",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H00",
-    "date": "26/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
+    "name1": "United of Manchester",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbfxRVMgc9ps4RnxPhuMPi07eKgnF7VVHDg&s",
+    "name2": "Rylands",
+    "champ": "Angleterre. Northern Première Ligue",
+    "heure": "18H45",
+    "date": "28/04/2026",
     "pro": "Total: (+1.5)"
   }
 ]
