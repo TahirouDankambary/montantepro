@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%B2%D8%AF.png",
-    "name1": "ZED",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b4/Pharco_FC_Logo.png",
-    "name2": "Pharco",
-    "champ": "Égypte. Première Ligue",
-    "heure": "14H00",
-    "date": "28/04/2026",
-    "pro": "1X"
+    "photo1": "https://wiki.salzburg12.at/images/3/38/SVG_Bleiburg.png",
+    "name1": "SVGBleiburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7PWWTMTsgmJixmcrWWaf5goIK0-lXtjmEA&s",
+    "name2": "KAC 1909",
+    "champ": "Autriche. Landesliga",
+    "heure": "15H30",
+    "date": "30/04/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzyvpxRt_MTZ45i1GaTHdAkWhTwjJJC4lgQ&s",
-    "name1": "Hednesford Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/24/Stockton_Town_F.C._logo.png",
-    "name2": "Stockton Town",
-    "champ": "Angleterre. Northern Première Ligue",
-    "heure": "18H45",
-    "date": "28/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/80/Logo_SAK_Klagenfurt.png",
+    "name1": "SAK Klagenfurt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RB2binObWhALrY7Ms5zjL1fLn8eTPUgXKA&s",
+    "name2": "TSV Grafenstein",
+    "champ": "Autriche. Landesliga",
+    "heure": "16H00",
+    "date": "30/04/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfct4TpFzktRyOXdEw-O1TvSe1MkS7Moq9A&s",
-    "name1": "United of Manchester",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbfxRVMgc9ps4RnxPhuMPi07eKgnF7VVHDg&s",
-    "name2": "Rylands",
-    "champ": "Angleterre. Northern Première Ligue",
-    "heure": "18H45",
-    "date": "28/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjg-5qXDAylXNEa0AhRGuciTIARhTkppUJw&s",
+    "name1": "ATUS Ferlach",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxl4hrY3T8ysgjI5VqKJ212HBh0rB80eMyA&s",
+    "name2": "SV Dellach-Gail",
+    "champ": "Autriche. Landesliga",
+    "heure": "17H00",
+    "date": "30/04/2026",
+    "pro": "2X"
   }
 ]
