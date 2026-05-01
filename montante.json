@@ -1,33 +1,33 @@
 
  [
   {
-    "photo1": "https://wiki.salzburg12.at/images/3/38/SVG_Bleiburg.png",
-    "name1": "SVGBleiburg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7PWWTMTsgmJixmcrWWaf5goIK0-lXtjmEA&s",
-    "name2": "KAC 1909",
-    "champ": "Autriche. Landesliga",
-    "heure": "15H30",
-    "date": "30/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Pyramids_FC_%282020%29.png/250px-Pyramids_FC_%282020%29.png",
+    "name1": "Pyramids",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/ENPPI_Club_%28logo%29.svg/1280px-ENPPI_Club_%28logo%29.svg.png",
+    "name2": "ENPPI",
+    "champ": "Égypte. Première Ligue",
+    "heure": "14H00",
+    "date": "01/05/2026",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/80/Logo_SAK_Klagenfurt.png",
-    "name1": "SAK Klagenfurt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RB2binObWhALrY7Ms5zjL1fLn8eTPUgXKA&s",
-    "name2": "TSV Grafenstein",
-    "champ": "Autriche. Landesliga",
-    "heure": "16H00",
-    "date": "30/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Ceramica_Cleopatra_FC_logo.png/250px-Ceramica_Cleopatra_FC_logo.png",
+    "name1": "Ceramica Cleopatra",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Al_Masry_%28logo%29.svg/1280px-Al_Masry_%28logo%29.svg.png",
+    "name2": "Al-Masry",
+    "champ": "Égypte. Première Ligue",
+    "heure": "14H00",
+    "date": "01/05/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjg-5qXDAylXNEa0AhRGuciTIARhTkppUJw&s",
-    "name1": "ATUS Ferlach",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxl4hrY3T8ysgjI5VqKJ212HBh0rB80eMyA&s",
-    "name2": "SV Dellach-Gail",
-    "champ": "Autriche. Landesliga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
+    "name1": "Zamalek",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
+    "name2": "Al Ahly le Caire",
+    "champ": "Égypte. Première Ligue",
     "heure": "17H00",
-    "date": "30/04/2026",
+    "date": "01/05/2026",
     "pro": "2X"
   }
 ]
