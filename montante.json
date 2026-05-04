@@ -1,33 +1,23 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Pyramids_FC_%282020%29.png/250px-Pyramids_FC_%282020%29.png",
-    "name1": "Pyramids",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/ENPPI_Club_%28logo%29.svg/1280px-ENPPI_Club_%28logo%29.svg.png",
-    "name2": "ENPPI",
-    "champ": "Égypte. Première Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3Y55scinGy1o8PfSUgIX3f1NzGcQOBjlEA&s",
+    "name1": "Oural",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Shinnik_Logo.svg/960px-FC_Shinnik_Logo.svg.png",
+    "name2": "Chinnik Iaroslavl",
+    "champ": "Russie. 1ère Ligue",
     "heure": "14H00",
-    "date": "01/05/2026",
-    "pro": "V1"
+    "date": "04/05/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Ceramica_Cleopatra_FC_logo.png/250px-Ceramica_Cleopatra_FC_logo.png",
-    "name1": "Ceramica Cleopatra",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Al_Masry_%28logo%29.svg/1280px-Al_Masry_%28logo%29.svg.png",
-    "name2": "Al-Masry",
-    "champ": "Égypte. Première Ligue",
-    "heure": "14H00",
-    "date": "01/05/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
-    "name1": "Zamalek",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
-    "name2": "Al Ahly le Caire",
-    "champ": "Égypte. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw3xqRveUjaeob1h6IeQNLosJ7mnISbFoYJw&s",
+    "name2": "Viborg",
+    "champ": "Danemark. Superliga",
     "heure": "17H00",
-    "date": "01/05/2026",
-    "pro": "2X"
+    "date": "03/05/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
