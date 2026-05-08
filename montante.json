@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3Y55scinGy1o8PfSUgIX3f1NzGcQOBjlEA&s",
-    "name1": "Oural",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Shinnik_Logo.svg/960px-FC_Shinnik_Logo.svg.png",
-    "name2": "Chinnik Iaroslavl",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "14H00",
-    "date": "04/05/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_HamKam_2021.svg/1280px-Logo_HamKam_2021.svg.png",
+    "name1": "HamKam",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1280px-V%C3%A5lerenga_Oslo_logo.svg.png",
+    "name2": "Valerenga",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "08/05/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
-    "name1": "Midtjylland",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw3xqRveUjaeob1h6IeQNLosJ7mnISbFoYJw&s",
-    "name2": "Viborg",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "03/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rks_rakow_crest_ai.svg/langfr-250px-Rks_rakow_crest_ai.svg.png",
+    "name1": "Rakow Czestochowa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4b/Korona_Kielce.png",
+    "name2": "Korona Kielce",
+    "champ": "CHampionnat de Pologne",
+    "heure": "16H00",
+    "date": "08/05/2026",
     "pro": "1X Et TP(1.5) - OUI"
   }
 ]
