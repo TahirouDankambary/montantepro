@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KsPD9oasBw4wXQMZ9gduNdJFulW_VNUZyw&s",
-    "name2": "Stade Brestois",
-    "champ": "France. Ligue 1",
-    "heure": "19H00",
-    "date": "10/05/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_CD_Tondela_2019.svg/1280px-Logo_CD_Tondela_2019.svg.png",
+    "name1": "Tondela",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Moreirense_FC_2023.svg/1280px-Logo_Moreirense_FC_2023.svg.png",
+    "name2": "Moreirense",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H15",
+    "date": "11/05/2026",
+    "pro": "12"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
-    "name1": "Toulouse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name2": "Lyon",
-    "champ": "France. Ligue 1",
-    "heure": "19H00",
-    "date": "10/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZM0HoYYSzP5Jrd75giW1vkeTbDOD7Y_RiA&s",
+    "name1": "Estrela da Amadora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/FC_Famalic%C3%A3o_logo.png/250px-FC_Famalic%C3%A3o_logo.png",
+    "name2": "Famalicao",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H15",
+    "date": "11/05/2026",
     "pro": "Total: (+2)"
   }
 ]
