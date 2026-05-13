@@ -1,23 +1,33 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_CD_Tondela_2019.svg/1280px-Logo_CD_Tondela_2019.svg.png",
-    "name1": "Tondela",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Moreirense_FC_2023.svg/1280px-Logo_Moreirense_FC_2023.svg.png",
-    "name2": "Moreirense",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "11/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/86/Almere_City_FC_logo.PNG",
+    "name1": "Almere City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlktLhqE6vBH5APFQXj7Y-9N9S9XxsLjKl0g&s",
+    "name2": "Willem",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "13/05/2026",
     "pro": "12"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZM0HoYYSzP5Jrd75giW1vkeTbDOD7Y_RiA&s",
-    "name1": "Estrela da Amadora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/FC_Famalic%C3%A3o_logo.png/250px-FC_Famalic%C3%A3o_logo.png",
-    "name2": "Famalicao",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "11/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Stockport_County_FC_logo_2020.svg/1280px-Stockport_County_FC_logo_2020.svg.png",
+    "name1": "Stockport County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1280px-Logo_Stevenage_FC_2019.svg.png",
+    "name2": "Stevenage",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H00",
+    "date": "13/05/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1920px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H30",
+    "date": "13/05/2026",
+    "pro": "Total: (+1)"
   }
 ]
