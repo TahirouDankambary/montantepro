@@ -1,33 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MQWl0bBEdJd76258UHEpRI9JkOQWaCRS2A&s",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Man City",
-    "champ": "Coupe d'Angleterre",
-    "heure": "14H00",
-    "date": "16/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjulZcI1PZ19bNyK_XMGOx55NauG393r1A&s",
+    "name2": "Orenbourg",
+    "champ": "Russie. Première Ligue",
+    "heure": "15H00",
+    "date": "17/05/2026",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1280px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer 04",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPNB2tvfS-yCHJQCoLrm_hmxXjREpBrbNrQ&s",
-    "name2": "Hambourg",
-    "champ": "Alleamgne. Bundesliga",
-    "heure": "13H30",
-    "date": "16/05/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJA5tQW33QgR_acQcBHccFRrKmmQ3yK1lbw&s",
-    "name1": "Werder Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1280px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "Alleamgne. Bundesliga",
-    "heure": "13H30",
-    "date": "16/05/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/84/Krylia_Sovetov_logo.png",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png",
+    "name2": "Akron Tolyatti",
+    "champ": "Russie. Première Ligue",
+    "heure": "15H00",
+    "date": "17/05/2026",
+    "pro": "Total: (+2)"
   }
 ]
