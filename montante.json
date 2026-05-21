@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzIe9lW6u1O4x7ZX_NztyvzjZEkEag-XK_A&s",
-    "name1": "Aalesunds",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c4/Logo_SK_Brann.svg/1280px-Logo_SK_Brann.svg.png",
-    "name2": "Brann",
-    "champ": "Norvège. Elitesetien",
-    "heure": "18H00",
-    "date": "20/05/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvieP40sbwYdTd3UuUjIqHA9an-_vcnVdIA&s",
+    "name1": "Aguilas Doradas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/db/Corpereira2019.png",
+    "name2": "Deportivo Pereira",
+    "champ": "Coupde de Colombie",
+    "heure": "20H30",
+    "date": "21/05/2026",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Ilves_Tampere.png",
-    "name1": "Ilves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1280px-FC_Inter_Turku_%28logo%29.svg.png",
-    "name2": "Inter Turku",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "15H00",
-    "date": "20/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/50/Jaguares_de_Cordoba.png",
+    "name1": "Jaguares de Cordoba",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/16/Idependiente.jpg",
+    "name2": "Independiente Yumbo",
+    "champ": "Coupde de Colombie",
+    "heure": "21H00",
+    "date": "21/05/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
