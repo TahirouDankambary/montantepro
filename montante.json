@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvieP40sbwYdTd3UuUjIqHA9an-_vcnVdIA&s",
-    "name1": "Aguilas Doradas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/db/Corpereira2019.png",
-    "name2": "Deportivo Pereira",
-    "champ": "Coupde de Colombie",
-    "heure": "20H30",
-    "date": "21/05/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQcNcGsyvrBkM_3OPPIOFvwAzGAipm2UClQ&s",
+    "name1": "Trabzonspor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWw1sAZ6RHas-2dDKUrAlH5fD18veQyR9WFw&s",
+    "name2": "Konyaspor",
+    "champ": "Coupde de Turquie",
+    "heure": "17H45",
+    "date": "22/05/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/50/Jaguares_de_Cordoba.png",
-    "name1": "Jaguares de Cordoba",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/16/Idependiente.jpg",
-    "name2": "Independiente Yumbo",
-    "champ": "Coupde de Colombie",
-    "heure": "21H00",
-    "date": "21/05/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SV_Ried.svg/1920px-SV_Ried.svg.png",
+    "name1": "SV Ried",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
+    "name2": "Rapid Vienne",
+    "champ": "Autriche. Bundesliga",
+    "heure": "17H30",
+    "date": "22/05/2026",
+    "pro": "Total: (+2)"
   }
 ]
