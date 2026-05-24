@@ -1,33 +1,23 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "23/05/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
+    "name1": "Spartak Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "24/05/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/langfr-250px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyrL7oXGCmGgR91At_2Hdi4s3p2CebOYc7w&s",
+    "name1": "Lecce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
     "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "23/05/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png",
-    "name1": "Akron Tolyatti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
-    "name2": "Rotor Volgograd",
-    "champ": "Russie. Qualification",
-    "heure": "15H30",
-    "date": "23/05/2026",
-    "pro": "1X"
+    "heure": "18H45",
+    "date": "24/05/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
