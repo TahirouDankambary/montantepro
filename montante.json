@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
-    "name1": "Spartak Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name2": "Krasnodar",
-    "champ": "Coupe de Russie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3qzLBpBmSp-MgRQLEqLGRjT2ng2mBd3ryw&s",
+    "name1": "Alashkert",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/FC_Shirak_%28logo%29.svg/960px-FC_Shirak_%28logo%29.svg.png",
+    "name2": "Shirak",
+    "champ": "Championnat d'Arménie",
     "heure": "15H00",
-    "date": "24/05/2026",
+    "date": "26/05/2026",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXyrL7oXGCmGgR91At_2Hdi4s3p2CebOYc7w&s",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "24/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPlDd5zqYquZofgdGnuYi_8Ev3ak4oStmIQ&s",
+    "name1": "Almirante Brown",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/52/Escudo_C.A.S.M.png",
+    "name2": "CA San Miguel",
+    "champ": "Argentine. Primera B",
+    "heure": "16H00",
+    "date": "26/05/2026",
     "pro": "Total: (+1.5)"
   }
 ]
