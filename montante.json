@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3qzLBpBmSp-MgRQLEqLGRjT2ng2mBd3ryw&s",
-    "name1": "Alashkert",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/FC_Shirak_%28logo%29.svg/960px-FC_Shirak_%28logo%29.svg.png",
-    "name2": "Shirak",
-    "champ": "Championnat d'Arménie",
-    "heure": "15H00",
-    "date": "26/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/3840px-Flag_of_Ireland.svg.png",
+    "name1": "Irlande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/960px-Flag_of_Qatar_%283-2%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Qatar",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H45",
+    "date": "28/05/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPlDd5zqYquZofgdGnuYi_8Ev3ak4oStmIQ&s",
-    "name1": "Almirante Brown",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/52/Escudo_C.A.S.M.png",
-    "name2": "CA San Miguel",
-    "champ": "Argentine. Primera B",
-    "heure": "16H00",
-    "date": "26/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rbRDxbeNh9Ale-tKjB4v6Lk2eX5brGp7YA&s",
+    "name1": "Égypte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png",
+    "name2": "Russie",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H45",
+    "date": "28/05/2026",
     "pro": "Total: (+1.5)"
   }
 ]
