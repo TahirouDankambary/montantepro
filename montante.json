@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/langfr-250px-Flag_of_Andorra.svg.png",
-    "name1": "Andorre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/langfr-250px-Flag_of_Liechtenstein.svg.png",
-    "name2": "Liechtenstein",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
+    "name1": "Panama",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "name2": "Bosnie-Herzégovine",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "17H00",
-    "date": "04/06/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "19H00",
+    "date": "06/06/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/3840px-Flag_of_Sweden.svg.png",
-    "name1": "Suède",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/3840px-Flag_of_Greece.svg.png",
-    "name2": "Grèce",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/3840px-Flag_of_Australia.svg.png",
+    "name1": "Australie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
+    "name2": "Suisse",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "17H00",
-    "date": "04/06/2026",
+    "heure": "19H00",
+    "date": "06/06/2026",
     "pro": "Total: (+1.5)"
   }
 ]
