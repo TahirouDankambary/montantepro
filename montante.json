@@ -1,23 +1,23 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
-    "name1": "Panama",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name2": "Bosnie-Herzégovine",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Flag_of_Lesotho_%281987%E2%80%932006%29.svg/3840px-Flag_of_Lesotho_%281987%E2%80%932006%29.svg.png",
+    "name1": "Lesotho",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/langfr-250px-Flag_of_Kenya.svg.png",
+    "name2": "Kenya",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "19H00",
-    "date": "06/06/2026",
-    "pro": "Total: (+2)"
+    "heure": "13H00",
+    "date": "07/06/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/3840px-Flag_of_Australia.svg.png",
-    "name1": "Australie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
-    "name2": "Suisse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/3840px-Flag_of_Liechtenstein.svg.png",
+    "name1": "Liechtenstein",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png",
+    "name2": "Chypre",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "19H00",
-    "date": "06/06/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "13H00",
+    "date": "07/06/2026",
+    "pro": "Total: (+2)"
   }
 ]
