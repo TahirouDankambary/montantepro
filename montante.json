@@ -1,62 +1,22 @@
 [
   {
-    "photo1": "https://logodownload.org/wp-content/uploads/2023/07/bandeira-paises-baixos-netherlands-flag.png",
-    "name1": "Pays-Bas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/langfr-250px-Flag_of_Uzbekistan.svg.png",
-    "name2": "Ouzbékistan",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "18H45",
-    "date": "08/06/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/3840px-Flag_of_Niger.svg.png",
-    "name1": "Niger",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/330px-Flag_of_Mauritania.svg.png",
-    "name2": "Mauritanie",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "19H00",
-    "date": "08/06/2026",
-    "pro": "2X"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-    "name1": "France",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/1280px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
-    "name2": "Irlande du Nord",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "19H10",
-    "date": "08/06/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/langfr-250px-Flag_of_Senegal.svg.png",
-    "name1": "Sénégal (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/3840px-Flag_of_Nigeria.svg.png",
-    "name2": "Nigeria (Femmes)",
-    "champ": "Matchs amicaux. Équipes nationales. Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1280px-Flag_of_Belarus.svg.png",
+    "name1": "Bélarus U21",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrG6wl-yyFZcLGUMrwKI0MIGR4cCp7EGuocw&s",
+    "name2": "Kazakhstan U21",
+    "champ": "Matchs amicaux U21. Équipes nationales",
     "heure": "15H00",
     "date": "08/06/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
-    "name1": "Egypte (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
-    "name2": "Tunisie (Femmes)",
-    "champ": "Matchs amicaux. Équipes nationales. Femmes",
-    "heure": "16H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langfr-250px-Flag_of_Italy.svg.png",
+    "name1": "Italie U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
+    "name2": "Albanie U21",
+    "champ": "Matchs amicaux U21. Équipes nationales",
+    "heure": "16H15",
     "date": "08/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name1": "Côte d'Ivoire (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/langfr-250px-Flag_of_Cape_Verde.svg.png",
-    "name2": "Cap-Vert (Femmes)",
-    "champ": "Matchs amicaux. Équipes nationales. Femmes",
-    "heure": "19H00",
-    "date": "08/06/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "pro": "V1"
   }
 ]
