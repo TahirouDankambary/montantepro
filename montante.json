@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JwHZ3EZCl2wKPote2S0niTEtDFnYGHUKoOswFD81pg&s",
-    "name1": "Falkenbergs",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl96gKKMQUOKDPNL1eHfiwL3-UF2W2Dw1lW6-pO3brmA&s=10",
-    "name2": "Orebro",
-    "champ": "Suède. Superettan",
-    "heure": "13H00",
-    "date": "14/06/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XJvNpzBUPlLa7ck3dIMV2boisLtnGH6b7MydvLkQoQ&s=10",
+    "name1": "Maringa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Maranh%C3%A3o_Atl%C3%A9tico_Clube.png/250px-Maranh%C3%A3o_Atl%C3%A9tico_Clube.png",
+    "name2": "Maranhao Atletico",
+    "champ": "Championnat du Brésil. Série C",
+    "heure": "22H30",
+    "date": "15/06/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RtP2nRhjidU6-xQg-tj4c55gLxbOmN7rMDJo5F7u1w&s=10",
-    "name1": "Ljungskile",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/%C3%96stersunds_FK_%28logo%29.svg/langfr-250px-%C3%96stersunds_FK_%28logo%29.svg.png",
-    "name2": "Ostersunds",
-    "champ": "Suède. Superettan",
-    "heure": "13H00",
-    "date": "14/06/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ypiranga_Futebol_Clube.png",
+    "name1": "Ypiranga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/langfr-250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name2": "Botafogo Futebol",
+    "champ": "Championnat du Brésil. Série C",
+    "heure": "23H30",
+    "date": "15/06/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
