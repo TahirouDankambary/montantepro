@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD1R6u3hopd9sTWH2_98s3VMBngLNUCo1WA&s",
-    "name1": "Club Atlético Gimnasia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Escudo_del_Club_Atl%C3%A9tico_Nueva_Chicago.svg/1280px-Escudo_del_Club_Atl%C3%A9tico_Nueva_Chicago.svg.png",
-    "name2": "Club Atlético Nueva",
-    "champ": "Argentine. Primera B Nacional",
-    "heure": "18H00",
-    "date": "17/06/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJur_wuD0k68SdF2N4AXXoC69lMc-Zib8mqw&s",
+    "name1": "Skovde AIK",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ljKJJGUVFWcXU5P5Hlkr0JLM3ZmbcVWhgQ&s",
+    "name2": "Hassleholm IF",
+    "champ": "Suède. Division 1",
+    "heure": "17H00",
+    "date": "18/06/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Club_acassuso_logo.png/250px-Club_acassuso_logo.png",
-    "name1": "Acassuso ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Talleres_ba_logo.png",
-    "name2": "Talleres Remedios de Escalada",
-    "champ": "Argentine. Primera B Nacional",
-    "heure": "15H00",
-    "date": "17/06/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZB7i85BtGhmfSEYpL1I4dvHL_NABGh9ds0w&s",
+    "name1": "Tvaakers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2QFuMOgln0AA2kF7xmq105mNJB4dV64UMQ&s",
+    "name2": "Angelholms",
+    "champ": "Suède. Division 1",
+    "heure": "17H00",
+    "date": "18/06/2026",
     "pro": "Total: (+1.5)"
   }
 ]
