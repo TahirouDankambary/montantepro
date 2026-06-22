@@ -1,32 +1,22 @@
 [
   {
-    "photo1": "https://static.wikia.nocookie.net/liga-mx/images/7/77/Canc%C3%BAnLogo.png/revision/latest?cb=20200626191323&path-prefix=es",
-    "name1": "Cancun",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGW-HCmUWjZ-vce_19bG-et0vNKOPB7Nv7x7A1dhvLw&s=10",
-    "name2": "Monterrey",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "22H30",
-    "date": "21/06/2026",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEpq_VFVyte_KOZEOFV8PJBIYPdd1RXLs39gVKqsSlw&s",
+    "name1": "Varbergs Bois",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHpjKdJoJZP1lXQzhWFgLNpiK8u1S75LlY5RbOk3c2g&s=10",
+    "name2": "Landskrona Bois",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "22/06/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnGRwZV6UB4wm7b9cIKMfOsXcbw0bh-OFRz1CRBXimg&s",
-    "name1": "Assyriska Foreningen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBes26UEyHmL1Sr-UaGa9sApLRTGjVAX4QS0hT5mJAmPpCaWJJhyWAidk&s=10",
-    "name2": "IF Karlstad",
-    "champ": "Suède. Division 1",
-    "heure": "15H00",
-    "date": "21/06/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx93dR4soFeRYkyehMr39CZHhmdhEX2qf9UBHtgguyY9gtyfxFr11FT-A&s=10",
-    "name1": "AFC Malmo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwt0lVxOuryHbZHpF3jFWygwaiydciIODTY_LZtkYnw&s=10",
-    "name2": "BK Olympic",
-    "champ": "Suède. Division 1",
-    "heure": "14H00",
-    "date": "21/06/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/IK_Oddevold_logo.svg/langfr-250px-IK_Oddevold_logo.svg.png",
+    "name1": "Oddevold",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RtP2nRhjidU6-xQg-tj4c55gLxbOmN7rMDJo5F7u1w&s=10",
+    "name2": "Ljungskile",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "22/06/2026",
+    "pro": "1X"
   }
 ]
