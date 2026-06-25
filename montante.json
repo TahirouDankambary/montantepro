@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7a/FC_Roseng%C3%A5rd_logo.svg/langfr-250px-FC_Roseng%C3%A5rd_logo.svg.png",
-    "name1": "Rosengard(Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/1280px-Logo_Djurg%C3%A5rdens_IF.svg.png",
-    "name2": "Djurgardens IF(Femmes)",
-    "champ": "Suède. Allsvenskan. Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5c/FC_Jazz_logo.png",
+    "name1": "Jazz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Tampere_United.png",
+    "name2": "Tampere United",
+    "champ": "Finlande. Ykkonen. Division 1",
     "heure": "16H00",
-    "date": "24/06/2026",
-    "pro": "Total: (+2)"
+    "date": "25/06/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Universit%C3%A9_d%27Uppsala_%28logo%29.svg/1280px-Universit%C3%A9_d%27Uppsala_%28logo%29.svg.png",
-    "name1": "Uppsala(Femmes)",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ730IqxvO3PjC8iClYJtE-yDss7boghU7XQ&s",
-    "name2": "Hacken(Femmes)",
-    "champ": "Suède. Allsvenskan. Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/FC_JJK.svg/1280px-FC_JJK.svg.png",
+    "name1": "Jyvaskyla",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1280px-FC_Inter_Turku_%28logo%29.svg.png",
+    "name2": "Inter Turku",
+    "champ": "Finlande. Ykkonen. Division 1",
     "heure": "16H00",
-    "date": "24/06/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "25/06/2026",
+    "pro": "V1"
   }
 ]
