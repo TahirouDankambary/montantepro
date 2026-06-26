@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5c/FC_Jazz_logo.png",
-    "name1": "Jazz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Tampere_United.png",
-    "name2": "Tampere United",
-    "champ": "Finlande. Ykkonen. Division 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Quer%C3%A9taro_F.C._logo.svg/960px-Quer%C3%A9taro_F.C._logo.svg.png",
+    "name1": "Queretaro",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9KnnFHRV5Apev35IZmtMwVaA8QSlE5fBKQ&s",
+    "name2": "Atletico San Luis",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "25/06/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "26/06/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/FC_JJK.svg/1280px-FC_JJK.svg.png",
-    "name1": "Jyvaskyla",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1280px-FC_Inter_Turku_%28logo%29.svg.png",
-    "name2": "Inter Turku",
-    "champ": "Finlande. Ykkonen. Division 1",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
+    "name1": "Rapid Vienne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SV_Donau_%28logo%29.svg/1920px-SV_Donau_%28logo%29.svg.png",
+    "name2": "Donau",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "25/06/2026",
-    "pro": "V1"
+    "date": "26/06/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
   }
 ]
