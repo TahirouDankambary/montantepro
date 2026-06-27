@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Quer%C3%A9taro_F.C._logo.svg/960px-Quer%C3%A9taro_F.C._logo.svg.png",
-    "name1": "Queretaro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9KnnFHRV5Apev35IZmtMwVaA8QSlE5fBKQ&s",
-    "name2": "Atletico San Luis",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQzOJRiNdkflOIqmDIqvnxqdJLWe5w4-Ldg&s",
+    "name1": "Sion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/Logo_%C3%89toile_Carouge_FC_2023.svg/langfr-250px-Logo_%C3%89toile_Carouge_FC_2023.svg.png",
+    "name2": "Etoile",
     "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "26/06/2026",
-    "pro": "Total: (+2.5)"
+    "heure": "15H00",
+    "date": "27/06/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
-    "name1": "Rapid Vienne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SV_Donau_%28logo%29.svg/1920px-SV_Donau_%28logo%29.svg.png",
-    "name2": "Donau",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DZyd77eNjlEUQdzDfJUxIqkqhlopqjaPvg&s",
+    "name1": "WSG Tirol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn-Vqb-q_L9yinznsF7jfqUuoqY8z8SFuDQ&s",
+    "name2": "Qarabag",
     "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "26/06/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "heure": "15H00",
+    "date": "27/06/2026",
+    "pro": "Total: (+2)"
   }
 ]
