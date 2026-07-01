@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHCMY4VNe07OAA7M22GYjM0IkdBm9y9o1MA&s",
-    "name1": "Alloa Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZCGCOS2GXRi0d4D_6OzScrJHta7E-EUGTg&s",
-    "name2": "Livingston FC",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtPuGZUdsVgkW6WjwBQN8FEcJmeBwCqCq_7zyir5Ivg&s",
+    "name1": "MSK Zilina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bc/FK_Pardubice.png",
+    "name2": "Pardubice",
     "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "30/06/2026",
-    "pro": "V2"
+    "heure": "15H00",
+    "date": "01/07/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/27/Mold_Alexandra.png",
-    "name1": "Mold Alexandra",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjp_zF6oOy3QYz5Pyh5DcyrpOyUSYX17mdJg&s",
-    "name2": "Airbus UK Broughton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/1920px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
+    "name1": "Zbrojovka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3d/Tiszak%C3%A9cske_FC_logo.png",
+    "name2": "Tiszakecske",
     "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "30/06/2026",
-    "pro": "V2"
+    "heure": "15H00",
+    "date": "01/07/2026",
+    "pro": "V1"
   }
 ]
