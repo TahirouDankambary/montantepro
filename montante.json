@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtPuGZUdsVgkW6WjwBQN8FEcJmeBwCqCq_7zyir5Ivg&s",
-    "name1": "MSK Zilina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/bc/FK_Pardubice.png",
-    "name2": "Pardubice",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjufZKKmonDw2f7ZAxiLPOtL74rPKz7ocf_ru611eS4A&s=10",
+    "name1": "Cove Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f2/Turriff_Utd.png",
+    "name2": "Turriff United",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "01/07/2026",
-    "pro": "2X"
+    "heure": "18H00",
+    "date": "02/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/1920px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
-    "name1": "Zbrojovka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3d/Tiszak%C3%A9cske_FC_logo.png",
-    "name2": "Tiszakecske",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/NK_Vara%C5%BEdin.svg/1280px-NK_Vara%C5%BEdin.svg.png",
+    "name1": "NK Varazdin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/FC_Voluntari_logo.png",
+    "name2": "Voluntari",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "01/07/2026",
-    "pro": "V1"
+    "heure": "16H00",
+    "date": "02/07/2026",
+    "pro": "1X"
   }
 ]
