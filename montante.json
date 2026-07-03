@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjufZKKmonDw2f7ZAxiLPOtL74rPKz7ocf_ru611eS4A&s=10",
-    "name1": "Cove Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f2/Turriff_Utd.png",
-    "name2": "Turriff United",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tYpgvJJdX3UAzlSLjO9UZAFpqWN8D3d48u070DvqfQ&s=10",
+    "name1": "Obolon Kyiv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJz-jjGdRow-8GY8VCFxhQPKGcmcwo1nno9F4A9LI-Tw&s",
+    "name2": "Nyva Vinnytsia",
     "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "02/07/2026",
+    "heure": "14H00",
+    "date": "03/07/2026",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/NK_Vara%C5%BEdin.svg/1280px-NK_Vara%C5%BEdin.svg.png",
-    "name1": "NK Varazdin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/FC_Voluntari_logo.png",
-    "name2": "Voluntari",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaBZfw1O5A37h_gO6IUoCd0413ZWfZ3n96fx1I2L1Sw&s=10",
+    "name1": "Sturm Graz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/FC_Kosice_logo.png/250px-FC_Kosice_logo.png",
+    "name2": "Kosice",
     "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "02/07/2026",
-    "pro": "1X"
+    "heure": "14H00",
+    "date": "03/07/2026",
+    "pro": "Total: (+2.5)"
   }
 ]
