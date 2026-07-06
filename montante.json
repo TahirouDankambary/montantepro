@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1W9yMNVGUnKimeCeX8Ez6Bd1MM9NOecf2gWJEOYdLxw&s",
-    "name1": "Worksop Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Hallam-fc-badge.jpg/250px-Hallam-fc-badge.jpg",
-    "name2": "Hallam",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "04/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Kansas_City_Royals.png",
+    "name1": "Royals de Kansas City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a2/PhiladelphiaPhillies_100.png",
+    "name2": "Phillies de Philadelphie",
+    "champ": "États-Unis. MLB",
+    "heure": "18H10",
+    "date": "06/07/2026",
+    "pro": "Handicap: 2(1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chatham_Town_FC_crest.svg/1280px-Chatham_Town_FC_crest.svg.png",
-    "name1": "Chartham Town",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRK-6bZBWkW8Z5SizDAi6NLNGqXrDQkqB3fmUDYIG5fw&s",
-    "name2": "Slough Town",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "04/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tampa-Bay-Rays-Logo-2008-2018-700x394.png/250px-Tampa-Bay-Rays-Logo-2008-2018-700x394.png",
+    "name1": "Tampa Bay Rays",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/New_York_Yankees_logo.svg/1280px-New_York_Yankees_logo.svg.png",
+    "name2": "Yankees de New York",
+    "champ": "États-Unis. MLB",
+    "heure": "22H40",
+    "date": "06/07/2026",
+    "pro": "V1 Et TP(7.5) - NON"
   }
 ]
