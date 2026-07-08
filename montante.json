@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/84/KI_Klaksvik.png",
-    "name1": "Ki Klaksvik",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MGDnNrUzhMGAoY7lfN9TXJGrAfUFMJAws-Jzwxwa1Q&s=10",
-    "name2": "Atert Bissen",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H45",
-    "date": "07/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SlHBrD7PxyS1n18tIzWGM0firig27U1NkuR8RIwp5w&s=10",
+    "name1": "Boulogne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_FC_Versailles_-_2022.svg/langfr-250px-Logo_FC_Versailles_-_2022.svg.png",
+    "name2": "Versailles 78",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vikingur.svg/1280px-Vikingur.svg.png",
-    "name1": "Vikingur Reykjavik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_ETO_FC_Gy%C5%91r_2025.svg/1280px-Logo_ETO_FC_Gy%C5%91r_2025.svg.png",
-    "name2": "Gyor",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "07/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vasas_SC_%28Logo%29.svg/1280px-Vasas_SC_%28Logo%29.svg.png",
+    "name1": "Vasas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4e/Kisv%C3%A1rda_FC_logo.png",
+    "name2": "Kisvarda",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "08/07/2026",
     "pro": "Total: (+2)"
   }
 ]
