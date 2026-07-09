@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SlHBrD7PxyS1n18tIzWGM0firig27U1NkuR8RIwp5w&s=10",
-    "name1": "Boulogne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_FC_Versailles_-_2022.svg/langfr-250px-Logo_FC_Versailles_-_2022.svg.png",
-    "name2": "Versailles 78",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "08/07/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66aSAu6_gS8BVq3u7_60ez8wFmpILzHUzdvY6HYSr9g&s=10",
+    "name1": "Atletic Club d'Escaldes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/92/Mornar_Bar_FK_Logo.png",
+    "name2": "Mornar",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "14H00",
+    "date": "09/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vasas_SC_%28Logo%29.svg/1280px-Vasas_SC_%28Logo%29.svg.png",
-    "name1": "Vasas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4e/Kisv%C3%A1rda_FC_logo.png",
-    "name2": "Kisvarda",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "08/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/57/Logo_of_FC_Alashkert.png",
+    "name1": "Alashkert",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/40/FC_Elimay_Logo.svg/250px-FC_Elimay_Logo.svg.png",
+    "name2": "Elimai",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "09/07/2026",
+    "pro": "1X"
   }
 ]
