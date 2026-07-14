@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvES01bgaz6S2RZCORgc87Y-hZnu1HPBTifJBIEBxaPg&s=10",
-    "name1": "Breitenrain",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmi94lpioDdNPU0PEFvEd6aRzo7GvKUV-pDTUbgzGLQ&s=10",
-    "name2": "Besa Biel",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "13/07/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
+    "name1": "KF Drita",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name2": "Zalgiris Kaunas",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "14/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/99/SV_Gloggnitz.png",
-    "name1": "Gloggnitz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyF73ybnIbAVXPPUPDW2bThHBfg1FEARlW_iJ5omiVmA&s=10",
-    "name2": "Fortuna Wiener Neustadt",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "13/07/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Larne_FC_%28logo%29.svg/1280px-Larne_FC_%28logo%29.svg.png",
+    "name1": "Larne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/50/Tre_Fiori_FC_logo.png",
+    "name2": "Societa Polisportiva",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "14/07/2026",
+    "pro": "V1"
   }
 ]
