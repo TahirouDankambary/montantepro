@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
-    "name1": "KF Drita",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name2": "Zalgiris Kaunas",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "14/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xj5HNnIk3Fny89CgE7Mdy4O3bpegoOnNGlmZA28cGw&s=10",
+    "name1": "Fleury 91",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SlHBrD7PxyS1n18tIzWGM0firig27U1NkuR8RIwp5w&s=10",
+    "name2": "Boulogne",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "15/07/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Larne_FC_%28logo%29.svg/1280px-Larne_FC_%28logo%29.svg.png",
-    "name1": "Larne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/50/Tre_Fiori_FC_logo.png",
-    "name2": "Societa Polisportiva",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "14/07/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1280px-Holstein_Kiel_Logo.svg.png",
+    "name1": "Holstein Kiel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1920px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name2": "Al-Ahli Jeddah",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "15/07/2026",
+    "pro": "2X"
   }
 ]
