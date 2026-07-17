@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/47/Paide_Linnameeskond_logo.png",
-    "name1": "Paide Linnameeskond",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/81/Logo_FC_Hegelmann_%282022%29.svg/1280px-Logo_FC_Hegelmann_%282022%29.svg.png",
-    "name2": "Hegelmann Litauen",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "16/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/500px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
+    "name1": "Zbrojovka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/95/Zeleziarne_Podbrezova.png",
+    "name2": "Zeleziarne Polbrezova",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "17/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FC_Pyunik_%28logo%29.svg/1920px-FC_Pyunik_%28logo%29.svg.png",
-    "name1": "Pyunik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/33/Marsaxlokk_F.C._new_logo.png",
-    "name2": "Marsaxlokk",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "16/07/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_NK_Lokomotiva_2013.svg/langfr-250px-Logo_NK_Lokomotiva_2013.svg.png",
+    "name1": "Lokomotiva Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/FC_Karpaty_Lviv.svg/langfr-250px-FC_Karpaty_Lviv.svg.png",
+    "name2": "Karpaty Lviv",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "17/07/2026",
+    "pro": "1X"
   }
 ]
