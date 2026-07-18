@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/500px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
-    "name1": "Zbrojovka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/95/Zeleziarne_Podbrezova.png",
-    "name2": "Zeleziarne Polbrezova",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "17/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcEehgCP2mPUnoRWLXVA0kvrRy0Y66RbFdYX1yJxvJA&s=10",
+    "name1": "AIK Fotboll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
+    "name2": "GAIS",
+    "champ": "Suède. Allsvenskan",
+    "heure": "13H00",
+    "date": "18/07/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_NK_Lokomotiva_2013.svg/langfr-250px-Logo_NK_Lokomotiva_2013.svg.png",
-    "name1": "Lokomotiva Zagreb",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/FC_Karpaty_Lviv.svg/langfr-250px-FC_Karpaty_Lviv.svg.png",
-    "name2": "Karpaty Lviv",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "17/07/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQ1wBdsWkGNvJpe00AoLR8T4Vba-5Ru4KrrY_000VAw&s=10",
+    "name1": "AC Oulu",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_IF_Gnistan.svg/1280px-Logo_IF_Gnistan.svg.png",
+    "name2": "Gnistan",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "14H00",
+    "date": "18/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
