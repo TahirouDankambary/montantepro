@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcEehgCP2mPUnoRWLXVA0kvrRy0Y66RbFdYX1yJxvJA&s=10",
-    "name1": "AIK Fotboll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
-    "name2": "GAIS",
-    "champ": "Suède. Allsvenskan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfIrLNuuBH8oZO9Vox5smaV7U0hVEbkdbXY8id-KeSQ&s=10",
+    "name1": "IFK Varnamo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RtP2nRhjidU6-xQg-tj4c55gLxbOmN7rMDJo5F7u1w&s=10",
+    "name2": "Ljungskile",
+    "champ": "Suède. Superettan",
     "heure": "13H00",
-    "date": "18/07/2026",
+    "date": "19/07/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQ1wBdsWkGNvJpe00AoLR8T4Vba-5Ru4KrrY_000VAw&s=10",
-    "name1": "AC Oulu",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_IF_Gnistan.svg/1280px-Logo_IF_Gnistan.svg.png",
-    "name2": "Gnistan",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "14H00",
-    "date": "18/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://images.seeklogo.com/logo-png/48/2/united-ik-nordic-logo-png_seeklogo-487829.png",
+    "name1": "Nordic United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Orebro_SK_logo.svg/1280px-Orebro_SK_logo.svg.png",
+    "name2": "Orebro",
+    "champ": "Suède. Superettan",
+    "heure": "13H00",
+    "date": "19/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
