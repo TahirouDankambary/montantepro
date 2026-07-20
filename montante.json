@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfIrLNuuBH8oZO9Vox5smaV7U0hVEbkdbXY8id-KeSQ&s=10",
-    "name1": "IFK Varnamo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RtP2nRhjidU6-xQg-tj4c55gLxbOmN7rMDJo5F7u1w&s=10",
-    "name2": "Ljungskile",
-    "champ": "Suède. Superettan",
-    "heure": "13H00",
-    "date": "19/07/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLfZTBYnLOr8fqdI4a2khonDvr1SXskKxFgPgkm_IVw&s=10",
+    "name1": "Redbridge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7e/Welwyn_Garden_City_F.C._logo.png",
+    "name2": "Welwyn Garden City",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H45",
+    "date": "20/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://images.seeklogo.com/logo-png/48/2/united-ik-nordic-logo-png_seeklogo-487829.png",
-    "name1": "Nordic United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Orebro_SK_logo.svg/1280px-Orebro_SK_logo.svg.png",
-    "name2": "Orebro",
-    "champ": "Suède. Superettan",
-    "heure": "13H00",
-    "date": "19/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/73/Trafford_FC_crest.png",
+    "name1": "Trafford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FC_United_of_Manchester_crest.svg/250px-FC_United_of_Manchester_crest.svg.png",
+    "name2": "United of Manchester",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H45",
+    "date": "20/07/2026",
+    "pro": "V2"
   }
 ]
