@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXlLAB53E9s5AajKWKqRMo39-QCI6UGdSK0pwEuXnBw&s=10",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/500px-Logo_Gornik_Zabrze.svg.png",
-    "name2": "Gornik Zabrze",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/FK_Vardar_Logo.svg/250px-FK_Vardar_Logo.svg.png",
+    "name1": "Vardar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Riga_FC_%28logo%29.svg/3840px-Riga_FC_%28logo%29.svg.png",
+    "name2": "Riga FC",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "18H00",
-    "date": "21/07/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "22/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name1": "Sturm Graz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Heart_of_Midlothian_FC_logo.png",
-    "name2": "Heart of Midlothian",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6vqm9M6-VDSnb11kEvCfaMzDqGzdQ2CZsnCN0NGbWA&s=10",
+    "name1": "Spartak Trnava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
+    "name2": "CSKA 1948",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "18H30",
-    "date": "21/07/2026",
-    "pro": "Total: (+2)"
+    "date": "22/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
