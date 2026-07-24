@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOq4vULG1TETwtPQu4JbX2gsiPtBhSWy0ySHbhZ5GB-A&s",
-    "name1": "Flora",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgsv5FMajpTAyihAqnN_FNBlKIidrq4yi7UN5L31kDA&s=10",
-    "name2": "The New Saints",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "23/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7r8TG8RiQwH3JLoKamoXrcbMIaehnw2RaRSD_CIKrQ&s=10",
+    "name1": "Pogon Szczecin",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE9QQ2TkhDdfIvb4prcaGymScevNsUIRV1GUukzsKag&s=10",
+    "name2": "Legia Varsovie",
+    "champ": "Championnat de Pologne",
+    "heure": "18H30",
+    "date": "24/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1920px-Logo_HJK_Helsinki_2020.svg.png",
-    "name1": "HJK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Coleraine_FC_Logo.svg/1920px-Coleraine_FC_Logo.svg.png",
-    "name2": "Coleraine",
-    "champ": "Ligue Conférence de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RKS_Radomiak_Radom_%28logo%29.svg/1280px-RKS_Radomiak_Radom_%28logo%29.svg.png",
+    "name1": "RKS Radomiak Radom",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png",
+    "name2": "KS Wieczysta Krakow",
+    "champ": "Championnat de Pologne",
     "heure": "16H00",
-    "date": "23/07/2026",
+    "date": "24/07/2026",
     "pro": "Total: (+2)"
   }
 ]
