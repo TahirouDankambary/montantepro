@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7r8TG8RiQwH3JLoKamoXrcbMIaehnw2RaRSD_CIKrQ&s=10",
-    "name1": "Pogon Szczecin",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE9QQ2TkhDdfIvb4prcaGymScevNsUIRV1GUukzsKag&s=10",
-    "name2": "Legia Varsovie",
-    "champ": "Championnat de Pologne",
-    "heure": "18H30",
-    "date": "24/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://images.seeklogo.com/logo-png/65/1/mattersburger-sportverein-2020-logo-png_seeklogo-653494.png",
+    "name1": "Mattersburger SV",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDJhiGGb9MQ_duH6mFDVEdyH_zb4KBsbrJdUMIZe8zA&s",
+    "name2": "First Vienna",
+    "champ": "Coupe d'Autriche",
+    "heure": "17H00",
+    "date": "25/07/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/RKS_Radomiak_Radom_%28logo%29.svg/1280px-RKS_Radomiak_Radom_%28logo%29.svg.png",
-    "name1": "RKS Radomiak Radom",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png",
-    "name2": "KS Wieczysta Krakow",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/500px-Logo_Gornik_Zabrze.svg.png",
+    "name1": "Gornik Zabrze",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg/1280px-%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg.png",
+    "name2": "Slask Wroclaw",
     "champ": "Championnat de Pologne",
-    "heure": "16H00",
-    "date": "24/07/2026",
-    "pro": "Total: (+2)"
+    "heure": "15H30",
+    "date": "25/07/2026",
+    "pro": "12"
   }
 ]
