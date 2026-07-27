@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://images.seeklogo.com/logo-png/65/1/mattersburger-sportverein-2020-logo-png_seeklogo-653494.png",
-    "name1": "Mattersburger SV",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDJhiGGb9MQ_duH6mFDVEdyH_zb4KBsbrJdUMIZe8zA&s",
-    "name2": "First Vienna",
-    "champ": "Coupe d'Autriche",
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/0/08/%C3%96rebro_SK_Logo.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Orebro",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahPJ8sOpwek-52M0ixuwxHkZL25cyI5Nc2gYLQQiNCQ&s",
+    "name2": "Oddevold",
+    "champ": "Suède. Superettan",
     "heure": "17H00",
-    "date": "25/07/2026",
-    "pro": "Total: (+2.5)"
+    "date": "27/07/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/500px-Logo_Gornik_Zabrze.svg.png",
-    "name1": "Gornik Zabrze",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg/1280px-%C5%9Al%C4%85sk_Wroc%C5%82aw_%28logo%29.svg.png",
-    "name2": "Slask Wroclaw",
-    "champ": "Championnat de Pologne",
-    "heure": "15H30",
-    "date": "25/07/2026",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77ermru1cd0iYMf2AANrKUdSfx8oaCsVY3O0-dzPe4w&s=10",
+    "name1": "Osters",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgVrkkoB-MEOMZdb_dslimrO_xCz1KKHXZ3oQ8THdzw&s=10",
+    "name2": "Varbergs Bois",
+    "champ": "Suède. Superettan",
+    "heure": "17H05",
+    "date": "27/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
