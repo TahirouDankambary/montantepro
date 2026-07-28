@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/0/08/%C3%96rebro_SK_Logo.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Orebro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahPJ8sOpwek-52M0ixuwxHkZL25cyI5Nc2gYLQQiNCQ&s",
-    "name2": "Oddevold",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
+    "name1": "KF Drita",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Floriana_FC.svg/1280px-Floriana_FC.svg.png",
+    "name2": "Floriana",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H00",
+    "date": "28/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77ermru1cd0iYMf2AANrKUdSfx8oaCsVY3O0-dzPe4w&s=10",
-    "name1": "Osters",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgVrkkoB-MEOMZdb_dslimrO_xCz1KKHXZ3oQ8THdzw&s=10",
-    "name2": "Varbergs Bois",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHpjKdJoJZP1lXQzhWFgLNpiK8u1S75LlY5RbOk3c2g&s=10",
+    "name1": "Landskrona Bois",
+    "photo2": "https://images.seeklogo.com/logo-png/7/1/ifk-norrkoping-logo-png_seeklogo-70071.png",
+    "name2": "IFK Norrkoping",
     "champ": "Suède. Superettan",
-    "heure": "17H05",
-    "date": "27/07/2026",
+    "heure": "17H00",
+    "date": "28/07/2026",
     "pro": "Total: (+2)"
   }
 ]
