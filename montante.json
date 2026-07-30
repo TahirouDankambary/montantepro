@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpV6ydXL0A21ybumFDdPQF2qXGWCJ8iZKfKsXiVv2VQ&s=10",
-    "name1": "AEK Athènes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/500px-Logo_Samsunspor_2020.svg.png",
-    "name2": "Samsunspor",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "29/07/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqs5On7UHl08kFsvoGa3igNHNMm2uOkbfc63woo8OGBw&s=10",
+    "name1": "Ferencvarosi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhkIcvoJONJGAJS3fIVIDjpHzs_bdiA3wDsjoATMhdQ&s=10",
+    "name2": "Twente",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "18H30",
+    "date": "30/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/2/23/Unione_Sportiva_Cremonese_logo.svg?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Cremonese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Logo_AS_Cittadella_-_2024.svg/1280px-Logo_AS_Cittadella_-_2024.svg.png",
-    "name2": "Cittadella",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "29/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEAFluaEkwZI2GIgit5NMI0tBG6Sx-UmLRH8Vo-gujA&s=10",
+    "name1": "Benfica",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6pjmSetyiXcuZxfmamQ5OXDkNEELCgm7Ay2zTtoc8Zw&s=10",
+    "name2": "Saint-Gall",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "30/07/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
