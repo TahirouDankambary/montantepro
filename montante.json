@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYXHxxU0eF7_69IUZ_L2EDJiyoUUbY-c-oFZpjAYbtQ&s",
-    "name1": "Vis Pesaro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_Benevento_Calcio.svg/1280px-Logo_Benevento_Calcio.svg.png",
-    "name2": "Benevento Calcio",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "31/07/2026",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxdm4KrxNejuWHVNT5MhlzJgqTZ4AXcjKng_O6mSeJQ&s=10",
+    "name1": "Slovan Liberec",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FK_Teplice_logo.svg/960px-FK_Teplice_logo.svg.png",
+    "name2": "Teplice",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Valenciennes_FC.svg/1920px-Logo_Valenciennes_FC.svg.png",
-    "name1": "Valenciennes FC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6VNb4G2lvsUo1A8Kdst-Coc3YTbxj-KO8k3FJXmdXw&s=10",
-    "name2": "Boulogne",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "31/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AFHfc414AsJ8UOR53RgslRrE5SNvq0N1uvfUWhwIfg&s=10",
+    "name1": "1.Slovacko",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/SK_Artis_Brno_logo.svg/1280px-SK_Artis_Brno_logo.svg.png",
+    "name2": "Artis Brno",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
