@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxdm4KrxNejuWHVNT5MhlzJgqTZ4AXcjKng_O6mSeJQ&s=10",
-    "name1": "Slovan Liberec",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FK_Teplice_logo.svg/960px-FK_Teplice_logo.svg.png",
-    "name2": "Teplice",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7fRIUQnYtPc4j_PzZtmBMUlVl2IWL-szJLM8WbMEHQ&s=10",
+    "name1": "Orenbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name2": "Zénith",
+    "champ": "Russie. Première Ligue",
+    "heure": "13H00",
+    "date": "02/08/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AFHfc414AsJ8UOR53RgslRrE5SNvq0N1uvfUWhwIfg&s=10",
-    "name1": "1.Slovacko",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/SK_Artis_Brno_logo.svg/1280px-SK_Artis_Brno_logo.svg.png",
-    "name2": "Artis Brno",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "15H00",
-    "date": "01/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVJSUeXx9kP0jJv-0dV0H8RTgC1XIQef3CE9ZmFSuNg&s=10",
+    "name1": "Genk",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhkIcvoJONJGAJS3fIVIDjpHzs_bdiA3wDsjoATMhdQ&s=10",
+    "name2": "Twente",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H30",
+    "date": "02/08/2026",
     "pro": "Total: (+2)"
   }
 ]
