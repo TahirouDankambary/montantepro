@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpvB42OLI5vTkRuMdS_SV3esKXis3-cmhJcNMzSQm9A&s=10",
-    "name1": "Eldense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal ll",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Mb7o5uu6kphzBaGlPMYHSWOtML2btlqFY7TdOXkfTg&s=10",
+    "name1": "SSC Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1920px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
     "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "04/08/2026",
-    "pro": "12"
+    "heure": "16H30",
+    "date": "05/08/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB5mqnGOM8_uMhPcPPm0abLGdBmmUUIi3BqvTimiTQA&s=10",
-    "name1": "Ténérife",
-    "photo2": "https://images.seeklogo.com/logo-png/39/1/ud-tamaraceite-logo-png_seeklogo-391987.png",
-    "name2": "Tamaraceite",
+    "photo1": "https://assets.football-logos.cc/logos/spain/700x700/gimnastica-segoviana.08bfd2df.png",
+    "name1": "Gimnastica Segoviana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Real_Valladolid_CF_-_2022.svg/500px-Logo_Real_Valladolid_CF_-_2022.svg.png",
+    "name2": "Real Valladolid",
     "champ": "Matchs amicaux des clubs",
-    "heure": "17H30",
-    "date": "04/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "heure": "17H00",
+    "date": "05/08/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
