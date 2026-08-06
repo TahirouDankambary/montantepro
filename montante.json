@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Mb7o5uu6kphzBaGlPMYHSWOtML2btlqFY7TdOXkfTg&s=10",
-    "name1": "SSC Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1920px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H30",
-    "date": "05/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7q5_pdcUiWpGRNLU6z0ie-gp8Q8sACtWcgSREDxGk3w&s=10",
+    "name1": "HJK",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTou0EIAIYo-E1TjCvVYJYHPLhIgU46c917_s9KoKI4FA&s=10",
+    "name2": "Motherwell FC",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "06/08/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://assets.football-logos.cc/logos/spain/700x700/gimnastica-segoviana.08bfd2df.png",
-    "name1": "Gimnastica Segoviana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Real_Valladolid_CF_-_2022.svg/500px-Logo_Real_Valladolid_CF_-_2022.svg.png",
-    "name2": "Real Valladolid",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "05/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/83/FK_Jablonec_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Jablonec",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMq1YmnJPjD0reG6g6hfmLXalTRkwQ1lI29q1Q62KTQ&s=10",
+    "name2": "Rigas Futbola Skola",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "06/08/2026",
+    "pro": "12"
   }
 ]
