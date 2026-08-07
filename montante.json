@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7q5_pdcUiWpGRNLU6z0ie-gp8Q8sACtWcgSREDxGk3w&s=10",
-    "name1": "HJK",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTou0EIAIYo-E1TjCvVYJYHPLhIgU46c917_s9KoKI4FA&s=10",
-    "name2": "Motherwell FC",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "06/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/500px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
+    "name1": "Zbrojovka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Slovan_Liberec_%28logo%29.svg/1280px-Slovan_Liberec_%28logo%29.svg.png",
+    "name2": "Slovan Liberec",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "17H00",
+    "date": "07/08/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/83/FK_Jablonec_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Jablonec",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMq1YmnJPjD0reG6g6hfmLXalTRkwQ1lI29q1Q62KTQ&s=10",
-    "name2": "Rigas Futbola Skola",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "06/08/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/%C3%96stersunds_FK_%28logo%29.svg/langfr-250px-%C3%96stersunds_FK_%28logo%29.svg.png",
+    "name1": "Ostersunds",
+    "photo2": "https://toppng.com/uploads/preview/gif-sundsvall-vector-logo-11574286312xaxcged1tf.png",
+    "name2": "Sundsvall",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "07/08/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
