@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/500px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
-    "name1": "Zbrojovka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Slovan_Liberec_%28logo%29.svg/1280px-Slovan_Liberec_%28logo%29.svg.png",
-    "name2": "Slovan Liberec",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "17H00",
-    "date": "07/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4divx1mqViN1F2JDn7FbY2Oq68NlN3DSvSCdz_oG_A&s=10",
+    "name1": "Bradford City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Rochdale_AFC_1993.svg/1280px-Logo_Rochdale_AFC_1993.svg.png",
+    "name2": "Rochdale",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "14H00",
+    "date": "08/08/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/%C3%96stersunds_FK_%28logo%29.svg/langfr-250px-%C3%96stersunds_FK_%28logo%29.svg.png",
-    "name1": "Ostersunds",
-    "photo2": "https://toppng.com/uploads/preview/gif-sundsvall-vector-logo-11574286312xaxcged1tf.png",
-    "name2": "Sundsvall",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "07/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_Bristol_Rovers_FC.svg/1280px-Logo_Bristol_Rovers_FC.svg.png",
+    "name1": "Bristol Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peterborough_United%27s_new_badge.svg/1280px-Peterborough_United%27s_new_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Peterborough United",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "14H00",
+    "date": "08/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
