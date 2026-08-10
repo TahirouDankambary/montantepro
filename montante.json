@@ -1,22 +1,22 @@
 [
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4divx1mqViN1F2JDn7FbY2Oq68NlN3DSvSCdz_oG_A&s=10",
-    "name1": "Bradford City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Rochdale_AFC_1993.svg/1280px-Logo_Rochdale_AFC_1993.svg.png",
-    "name2": "Rochdale",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "14H00",
-    "date": "08/08/2026",
-    "pro": "12"
+    "name1": "Panionios",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympiacos Piraeus ll",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "10/08/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_Bristol_Rovers_FC.svg/1280px-Logo_Bristol_Rovers_FC.svg.png",
-    "name1": "Bristol Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peterborough_United%27s_new_badge.svg/1280px-Peterborough_United%27s_new_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Peterborough United",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "14H00",
-    "date": "08/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Volos_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Volos NFC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Kalamata_FC_2022.svg/langfr-250px-Logo_Kalamata_FC_2022.svg.png",
+    "name2": "Kalamata",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "10/08/2026",
+    "pro": "1X"
   }
 ]
