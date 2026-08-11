@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4divx1mqViN1F2JDn7FbY2Oq68NlN3DSvSCdz_oG_A&s=10",
-    "name1": "Panionios",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos Piraeus ll",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "10/08/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGn951di0aSvzVXwHzba9U1zorAEo23yan6Qqxt6j8GQ&s=10",
+    "name1": "AL Jazira Abu Dhabi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/960px-Logo_Al-Ittihad_Club_2015.svg.png",
+    "name2": "Ittihad FC",
+    "champ": "AFC Champions League Elite",
+    "heure": "16H00",
+    "date": "11/08/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Volos_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Volos NFC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Kalamata_FC_2022.svg/langfr-250px-Logo_Kalamata_FC_2022.svg.png",
-    "name2": "Kalamata",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "10/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Dinamo_SP_Logo.png/250px-Dinamo_SP_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Dynamo Saint Petersburg",
+    "photo2": "https://cdn.escharts.com/uploads/public/632/884/886/632884886be4f117138300.",
+    "name2": "FC 10",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "11/08/2026",
     "pro": "1X"
   }
 ]
