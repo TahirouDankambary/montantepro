@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-QDozq75K3eX9WSuisYsaypvh40GwzRwGekLRgZjmQ&s=10",
-    "name1": "Astrakhan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Machouk-KMV_Logo_2023.png/250px-Machouk-KMV_Logo_2023.png",
-    "name2": "Machouk-KMV Piatigorsk",
-    "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "12/08/2026",
-    "pro": "1X2 (2UP): V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxpy1SYsRn_XolY4W8cHD93cgIKvQe5sjmTsO3WT2IXA&s=10",
+    "name1": "Skendja",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EHFYla1GNoI03AdOBrx4MIHxLNVJiRA1M3uaHc-b5A&s=10",
+    "name2": "Hibernian",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H00",
+    "date": "13/08/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Spartak_Tambov.png/250px-Logo_Spartak_Tambov.png",
-    "name1": "Spartak Tambov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0d/SKA_Rostov_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "SKA Rostov sur le Don",
-    "champ": "Coupe de Russie",
-    "heure": "16H00",
-    "date": "12/08/2026",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7sBFy_V_27XF328TbEU4iyZKyQuUpDO2Yh-kX8Xn9w&s=10",
+    "name1": "Sion",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDn1XkM5n1p1O2lE5P2-FYjwGmHi-deg-TtnFpNQtg5A&s",
+    "name2": "Noah Yerevan",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H15",
+    "date": "13/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
