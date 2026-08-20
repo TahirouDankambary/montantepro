@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/89/FC_KAMAZ_Logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "KAMAZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FK_Tekstilshchik_Ivanovo_Logo_2008.svg/1280px-FK_Tekstilshchik_Ivanovo_Logo_2008.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Tekstilshchik Ivanovo",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H00",
-    "date": "19/08/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FC_Lugano_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Lugano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC1QCWIPXCAuDFkz-IWhC45awvi6iUMFzlNBfOMierA&s=10",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "20/08/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
-    "name1": "Veles Moscow",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDTh2rgWOreYdDZ66h8FB2vnK_kx5HOr1ZDe3Ou5ucw&s=10",
-    "name2": "Nizhny Novgorod",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H30",
-    "date": "19/08/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/46/Motherwell_FC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Motherwell FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Fribourg",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "20/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
