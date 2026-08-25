@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMlmrlTf7m_fLZriBlCp-CAs1lJg7x7Xj-1loxi40RWg&s=10",
-    "name1": "Rotor Volgograd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/FK_Neftekhimik_Nijnekamsk.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Neftekhimik Nijnekamsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H30",
-    "date": "24/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xJwbiCOYk3AzRoF6gSQyUI4Gub6Ax6QYJsMfzBW5jw&s=10",
+    "name1": "Cardiff City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_Norwich_City_FC_2022.svg/960px-Logo_Norwich_City_FC_2022.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20250714051334",
+    "name2": "Norwich City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H00",
+    "date": "25/08/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://seeklogo.com/images/F/fk-pari-nizhny-novgorod-logo-4C7F6E28D7-seeklogo.com.png",
-    "name1": "Nizhny Novgorod",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c8/SKA-Khabarovsk_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "SKA Khabarovsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "17H00",
-    "date": "24/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/92/Logo_Doncaster_Rovers_FC_2001.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Doncaster Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d7/Middlesbrough_FC_%28ancien_logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Middlesbrough",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H30",
+    "date": "25/08/2026",
+    "pro": "Qualification Equipe 2"
   }
 ]
