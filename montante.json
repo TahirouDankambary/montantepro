@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://assets.football-logos.cc/logos/greece/700x700/levadiakos.a72b1296.png",
-    "name1": "Levadiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Panathinaikos_FC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Panathinaikos",
-    "champ": "Grèce. Superligue",
-    "heure": "16H30",
-    "date": "31/08/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmmOvsnCmQG6yE37FnZAlmLQSX9QKnBnMqgwyh_xow&s=10",
+    "name1": "Torino",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4c9OBGz10vs2WLl45bntYXcD0CPf2rdEKKUMoejipdw&s=10",
+    "name2": "Monza",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "01/09/2026",
+    "pro": "Qualification Equipe 1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6fGVqDzg_hmoBCqc-HDh8Ra6z-sLBKyoa3LytWSQWQ&s=10",
-    "name1": "Amedspor",
-    "photo2": "https://assets.football-logos.cc/logos/turkey/1500x1500/trabzonspor.dea11b78.png",
-    "name2": "Trabzonspor",
-    "champ": "Turquie. Super Lig",
-    "heure": "18H30",
-    "date": "31/08/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Fakel Voronej",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbfgQ6lnKA9itRUFwKcp8W_gS2Xn0RzInbUi_afx6TOQ&s=10",
+    "name2": "Kasnodar",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "01/09/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
