@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9c26OPF3puUDtxvB0Yx6Dwmjuvn26oBOwONfIRuR-2w&s=10",
-    "name1": "Estrela da Amadora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A.C._Viseu.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Academico de Viseu",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "14H30",
-    "date": "20/09/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://assets.football-logos.cc/logos/netherlands/700x700/gvvv.26d072fe.png",
+    "name1": "GVVV Veenendaal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/88/DVS_%2733_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "DVS'33 Ermelo",
+    "champ": "Coupe de Pays-Bas. KNVB Beker",
+    "heure": "18H00",
+    "date": "22/09/2026",
+    "pro": "Qualification Equipe 1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhkIcvoJONJGAJS3fIVIDjpHzs_bdiA3wDsjoATMhdQ&s=10",
-    "name1": "Twente",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlGmysQXGfg3STVs4KDM8RLlibXbwUNfULR1lmFQun0g&s=10",
-    "name2": "PSV",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "12H30",
-    "date": "20/09/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/FC_Rijnvogels.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Rijnvogels",
+    "photo2": "https://i.pinimg.com/736x/9a/29/dc/9a29dc65f78e00567b7bdee7c82083e4.jpg",
+    "name2": "VVSB",
+    "champ": "Coupe de Pays-Bas. KNVB Beker",
+    "heure": "18H00",
+    "date": "22/09/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
