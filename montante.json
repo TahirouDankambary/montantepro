@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V5xnB1UCIY3WUUdkUt_G5ImAzEAR9OCVh_RCN8Iwdg&s=10",
-    "name1": "Nigeria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/250px-Flag_of_Madagascar.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name2": "Madagascar",
-    "champ": "Coupe d'Afrique des nations",
-    "heure": "16H00",
-    "date": "25/09/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0EkJa3KkotWkSRNsmIArwbzx1TaHc8B6_y0Q3f-d_g&s=10",
+    "name1": "Emmen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2BSrpETlfmD2g5wHQ_EcosnnzLi3t4_7qcU9l6vHEQ&s=10",
+    "name2": "Oss",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "26/09/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiTaKIJQwOLSBO1CQvCvt9c2ErivwbLZFxsHXWMa63Q&s=10",
-    "name1": "Rwanda",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXudDx5Z1geqpTr-knsAwNcSsvqa9uHEbcnkAjBDWwFg&s",
-    "name2": "Liberia",
-    "champ": "Coupe d'Afrique des nations",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4JfG4R4be1TdDqlc4oyMwZj8QibvSFgXIajUYdRzvQ&s=10",
+    "name1": "KLSK Londerzeel",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kZDQIw6U4qG2hU09lrgW1HMQzC9IfzlT9l7d0f7nAA&s",
+    "name2": "RAEC Mons",
+    "champ": "Coupe de Belgique",
     "heure": "16H00",
-    "date": "25/09/2026",
-    "pro": "12"
+    "date": "26/09/2026",
+    "pro": "V2"
   }
 ]
