@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0EkJa3KkotWkSRNsmIArwbzx1TaHc8B6_y0Q3f-d_g&s=10",
-    "name1": "Emmen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2BSrpETlfmD2g5wHQ_EcosnnzLi3t4_7qcU9l6vHEQ&s=10",
-    "name2": "Oss",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "26/09/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/330px-Flag_of_Botswana.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Botswana",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/3840px-Flag_of_Tunisia.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Tunisie",
+    "champ": "Coupe d'Afrique des nations",
+    "heure": "19H00",
+    "date": "28/09/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4JfG4R4be1TdDqlc4oyMwZj8QibvSFgXIajUYdRzvQ&s=10",
-    "name1": "KLSK Londerzeel",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kZDQIw6U4qG2hU09lrgW1HMQzC9IfzlT9l7d0f7nAA&s",
-    "name2": "RAEC Mons",
-    "champ": "Coupe de Belgique",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1280px-Flag_of_the_Central_African_Republic.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "République Centrafricaine",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Burkina Faso",
+    "champ": "Coupe d'Afrique des nations",
     "heure": "16H00",
-    "date": "26/09/2026",
+    "date": "28/09/2026",
     "pro": "V2"
   }
 ]
