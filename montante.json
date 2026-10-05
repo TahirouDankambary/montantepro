@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/11/Zenith-Logo.png",
-    "name1": "Zénith",
-    "photo2": "https://assets.footylogos.com/previews/bate-borisov-logo-footylogos-1200.webp",
-    "name2": "BATE Borisov",
-    "champ": "Matchs amicaux de clubs. Top",
-    "heure": "16H00",
-    "date": "04/10/2026",
-    "pro": "Total 1: (+1.5)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/3840px-Flag_of_Mauritius.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Mauritius",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Sri Lanka",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "15H00",
+    "date": "05/10/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://assets.football-logos.cc/logos/spain/700x700/las-palmas.1772a616.png",
-    "name1": "Las Palmas",
-    "photo2": "https://assets.football-logos.cc/logos/spain/700x700/valladolid.1aca82aa.png",
-    "name2": "Real Valladolid",
-    "champ": "Espagne. Division 2",
-    "heure": "16H30",
-    "date": "04/10/2026",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Rwanda",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/3840px-Flag_of_Kenya.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Kenya",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "16H00",
+    "date": "05/10/2026",
     "pro": "Total: (+1.5)"
   }
 ]
