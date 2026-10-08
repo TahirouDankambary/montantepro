@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Russie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Nigeria.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Nigeria",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "16H00",
-    "date": "06/10/2026",
-    "pro": "1X"
+    "photo1": "https://img.thesports.com/football/team/67353f6438fba8005f1ef633b369962e.jpg",
+    "name1": "Hapoel Migdal HaEmek",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6622lvQI75tSbTSMfq0lFwgHM-6wT2UDBluA4OjGtg&s=10",
+    "name2": "Tzeirey Tamra",
+    "champ": "Israël. Liga Alef. Nord",
+    "heure": "16H30",
+    "date": "08/10/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/960px-Flag_of_England.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Angleterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/6b/CZ_Flag.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "République Tchèque",
-    "champ": "Ligue des nations de l'UEFA",
-    "heure": "18H45",
-    "date": "06/10/2026",
-    "pro": "V1"
+    "photo1": "https://iconape.com/wp-content/files/gg/303416/png/cs-tiligul-tiras-tiraspol-logo.png",
+    "name1": "MS Tira",
+    "photo2": "https://images.seeklogo.com/logo-png/32/1/ironi-nesher-fc-logo-png_seeklogo-325150.png",
+    "name2": "Ironi Nesher",
+    "champ": "Israël. Liga Alef. Nord",
+    "heure": "17H00",
+    "date": "08/10/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
