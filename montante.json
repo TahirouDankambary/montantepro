@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7N4PpZiYbiW0HwQrsglBDm4Hex3PfhJtiGSRrI8pIg&s=10",
-    "name1": "Galatasaray",
-    "photo2": "https://assets.football-logos.cc/logos/turkey/700x700/kasimpasa.a8c1c287.png",
-    "name2": "Kasimpasa",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "09/10/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/250px-FC_Augsburg_-_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Augsbourg",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/FC-Bayern-Munchen-Logo.png",
+    "name2": "Bayern Munich",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
+    "pro": "V2"
   },
   {
-    "photo1": "https://assets.football-logos.cc/logos/czech-republic/700x700/zlin.ff81a7e0.png",
-    "name1": "Zlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Slavia Prague",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "16H00",
-    "date": "09/10/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_SC_Paderborn_07.svg/960px-Logo_SC_Paderborn_07.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Paderborn 07",
+    "photo2": "https://assets.football-logos.cc/logos/germany/256x256/vfb-stuttgart.5b4b15e7.png",
+    "name2": "Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "10/10/2026",
+    "pro": "2X"
   }
 ]
