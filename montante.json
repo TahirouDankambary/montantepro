@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lzubjgxC5IABZPVoge-23B3gMW1jCI3EX3xtQV7QBg&s=10",
-    "name1": "Al Nassr",
-    "photo2": "https://assets.football-logos.cc/logos/uzbekistan/700x700/neftchi-fergana.18a556bd.png",
-    "name2": "Neftchi Fergana",
-    "champ": "AFC Champions League Elite",
-    "heure": "18H15",
-    "date": "12/10/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9-bGdqczRgm-VajazPdwgNrFUfaWKxZexNFxyTYad2fSySmn-Z3i0ka_&s=10",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Charlton_Athletic.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Charlton Athletic",
+    "champ": "Angleterre. Championship",
+    "heure": "18H45",
+    "date": "13/10/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_RQnYwBUZK0em74CEmc-NQ53OA4P2vi5qrxcb_-occg&s=10",
-    "name1": "Al Quwa Al Jawiya",
-    "photo2": "https://assets.football-logos.cc/logos/uae/700x700/al-ain.c537aa38.png",
-    "name2": "Al Ain",
-    "champ": "AFC Champions League Elite",
-    "heure": "18H15",
-    "date": "12/10/2026",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/960px-Logo_Bristol_City_FC_2019.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Bristol City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUCdSWv28eqj96NHiv6Zn1HKBHRJSgMuOf6oTulDl4g&s=10",
+    "name2": "Blackburn Rovers",
+    "champ": "Angleterre. Championship",
+    "heure": "18H45",
+    "date": "13/10/2026",
     "pro": "Total: (+1.5)"
   }
 ]
