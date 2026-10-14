@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9-bGdqczRgm-VajazPdwgNrFUfaWKxZexNFxyTYad2fSySmn-Z3i0ka_&s=10",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Charlton_Athletic.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Charlton Athletic",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "13/10/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Zénith",
+    "champ": "Coupe de Russie",
+    "heure": "15H30",
+    "date": "14/10/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/960px-Logo_Bristol_City_FC_2019.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Bristol City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUCdSWv28eqj96NHiv6Zn1HKBHRJSgMuOf6oTulDl4g&s=10",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "13/10/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/960px-LASK-Logo_2023.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "LASK Linz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Y0dtFek6UEbt-tLpK58xjBRf2OyT-jo0j6kIcfjK7A&s=10",
+    "name2": "Liverpool",
+    "champ": "UEFA",
+    "heure": "16H45",
+    "date": "14/10/2026",
+    "pro": "2X"
   }
 ]
