@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7x636QHID0nJxp3oyQkqlvuSsCJ76g06W3yJFzeHqmA&s=10",
-    "name1": "Benfica",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKTB2enZ6VI4Z_MFzyI6sllVl29JWHCRtD9p-4ciXgA&s=10",
-    "name2": "Gil Vicente",
-    "champ": "Portugal. Coupe de la Ligue",
-    "heure": "20H45",
-    "date": "29/10/2026",
-    "pro": "Qualification Equipe 1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-DSeXUo-O2W0pIxxEWB1Gia46t8s43Z99Sy-QmgD2Q&s=10",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/Almere_City_FC_logo.PNG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Almere City",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "30/10/2026",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_Aarhus_Fremad_2020.svg/1280px-Logo_Aarhus_Fremad_2020.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Aarhus Fremad",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/960px-Logo_FC_Copenhagen_%281992-2024%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Copenhague",
-    "champ": "Coupe de Danemark",
-    "heure": "12H30",
-    "date": "29/10/2026",
-    "pro": "Qualification Equipe 2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUvH63MWUDSK4YryeEHy3UuxGgeNqPj2My_FRhrAgFQ&s=10",
+    "name1": "Roda JC Kerkrade",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/3840px-Logo_AZ_Alkmaar.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Alkmaar ll",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "30/10/2026",
+    "pro": "Total: (+2)"
   }
 ]
