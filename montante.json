@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo0QXmoZO-7N7UgHjVVikUQKgpXCjqOiBjwq-pYQZmg&s=10",
-    "name1": "Braga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQke2SajkLhCxOizg9Kt3JEDyAhAljt8LUv1WLcH4iWIA&s=10",
-    "name2": "Famalicao",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "20H30",
-    "date": "01/11/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ed/Pakhtakor_Tachkent_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Pakhtakor Tachkent",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19tcADXE0Ow0ykpSdmpF4L-1vFuq4Bx0MQYnSuQFzrA&s=10",
+    "name2": "Al Nassr",
+    "champ": "AFC Champions League Elite",
+    "heure": "13H45",
+    "date": "02/11/2026",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/61/Heart_of_Midlothian_FC_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Hibernian_FC_2026.svg/1280px-Logo_Hibernian_FC_2026.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Hibernian",
-    "champ": "Coupe de la Ligue Écossaise",
-    "heure": "15H00",
-    "date": "01/11/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwRITyO_c1Isbp5v0BQqPkRKCF79aeCT7FUox9WmYgw&s=10",
+    "name1": "AlSadd",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCU64my42dFjBIV2BI5tFhFjH10XfZH5b9afd0dS0-bg&s=10",
+    "name2": "Al Ahli Jeddah",
+    "champ": "AFC Champions League Elite",
+    "heure": "16H00",
+    "date": "02/11/2026",
+    "pro": "Total: (+2)"
   }
 ]
