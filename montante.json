@@ -1,22 +1,12 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5t9-a1oKF8DydDUBaRYXZy4c-aH9VWRBKwRpw-TBCA&s=10",
-    "name1": "AGF Aarhus",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo0QXmoZO-7N7UgHjVVikUQKgpXCjqOiBjwq-pYQZmg&s=10",
-    "name2": "Braga",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "05/11/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZrMTFhX6aWk9DE7wR5Cz4Vgb9ARwn2ZNPZBZBrQfsg&s=10",
+    "name1": "Leeds United",
+    "photo2": "https://images.seeklogo.com/logo-png/14/1/tottenham-hotspur-logo-png_seeklogo-141268.png",
+    "name2": "Tottenham",
+    "champ": "Angleterre. Premier League",
+    "heure": "12H30",
+    "date": "07/11/2026",
     "pro": "2X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWOUYUQLEnfjXB92YOfolHYg43Fu_Fpf5K2hiGBiIow&s=10",
-    "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Ajax",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H45",
-    "date": "05/11/2026",
-    "pro": "Total: (+1.5)"
   }
 ]
