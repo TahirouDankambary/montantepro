@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://assets.football-logos.cc/logos/england/700x700/bromley.ced2dddc.png",
-    "name1": "Bromley",
-    "photo2": "https://assets.football-logos.cc/logos/england/700x700/mk-dons.8b3ddd71.png",
-    "name2": "Milton Keynes Dons",
-    "champ": "Angleterre. League Trophy",
-    "heure": "19H30",
-    "date": "10/11/2026",
-    "pro": "2X"
+    "photo1": "https://assets.football-logos.cc/logos/england/700x700/avro-fc.108612b4.png",
+    "name1": "Avro",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooE6W0qbAgIzih8QkjSf5AwQSmgM74OgNdX1RWU7BYQ&s=10",
+    "name2": "Whitby Town",
+    "champ": "Angleterre. Northern Première Ligue",
+    "heure": "19H45",
+    "date": "11/11/2026",
+    "pro": "Total: (+2)"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4divx1mqViN1F2JDn7FbY2Oq68NlN3DSvSCdz_oG_A&s=10",
-    "name1": "Bradford City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYQIQ2h3ywsmHVBqFfv8Tb6htlE-n94dyITqfvEAeRw&s",
-    "name2": "York City",
-    "champ": "Angleterre. League Trophy",
-    "heure": "19H30",
-    "date": "10/11/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzgkWGbSAQr65Z7l7lpifXcwmnAqeTTmVMyC5WV9VTQ&s=10",
+    "name1": "Real Valladolid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqhvG-7dbG0edWByUex03HPK5YrLa46NJXi4W0rT-5w&s=10",
+    "name2": "Santa Clara",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "19H00",
+    "date": "11/11/2026",
     "pro": "1X"
   }
 ]
