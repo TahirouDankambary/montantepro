@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/c8/Logo_Portsmouth_FC.svg/1280px-Logo_Portsmouth_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Portsmouth",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojiE5wIej3YusjFL6t2mXKlccy56YIlUqLZDHPe4hLw&s=10",
-    "name2": "West Ham",
+    "photo1": "https://assets.football-logos.cc/logos/england/256x256/burnley.7baea7d7.png",
+    "name1": "Burnley",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFkw5MuQz8vwdTFePXFHC6WFx2el01ryRCAcQyE1Big&s=10",
+    "name2": "Birmingham City",
     "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "24/11/2026",
+    "date": "25/11/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/f/fc/Wolverhampton_Wanderers.svg/3840px-Wolverhampton_Wanderers.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Wolverhampton",
-    "photo2": "https://assets.football-logos.cc/logos/england/700x700/derby-county.707fb42c.png",
-    "name2": "Derby County",
+    "photo1": "https://assets.football-logos.cc/logos/england/700x700/bolton.ef0a1fe7.png",
+    "name1": "Bolton Wanderers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPPnIw57zeyVlBTbuB20Tv_P967NbUzX4t_5SSZCIfw&s=10",
+    "name2": "West Bromwich",
     "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "24/11/2026",
+    "heure": "19H45",
+    "date": "25/11/2026",
     "pro": "Total: (+2)"
   }
 ]
