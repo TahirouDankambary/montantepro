@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://assets.football-logos.cc/logos/england/256x256/burnley.7baea7d7.png",
-    "name1": "Burnley",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFkw5MuQz8vwdTFePXFHC6WFx2el01ryRCAcQyE1Big&s=10",
-    "name2": "Birmingham City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "25/11/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1v_jCYtFw89V9ww-jSOfJ1IQmyLqYcNgSobSNH03_Q&s=10",
+    "name1": "OFI Crete",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqq2oy9ZcgrTo-ik6Ge5sRY1PrBC9aP2t4Jtq0914nQ&s=10",
+    "name2": "Anderlecht",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "20H00",
+    "date": "26/11/2026",
+    "pro": "2X"
   },
     {
-    "photo1": "https://assets.football-logos.cc/logos/england/700x700/bolton.ef0a1fe7.png",
-    "name1": "Bolton Wanderers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPPnIw57zeyVlBTbuB20Tv_P967NbUzX4t_5SSZCIfw&s=10",
-    "name2": "West Bromwich",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "25/11/2026",
+    "photo1": "https://assets.football-logos.cc/logos/netherlands/700x700/nec-nijmegen.0e3e1d60.png",
+    "name1": "NEC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1oZl-IzNUWpXJ1L-BMs9qTlK1XKq7cMU7bwJ0fgahA&s=10",
+    "name2": "Stade Rennais",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "20H00",
+    "date": "26/11/2026",
     "pro": "Total: (+2)"
   }
 ]
