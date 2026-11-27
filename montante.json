@@ -1,22 +1,22 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1v_jCYtFw89V9ww-jSOfJ1IQmyLqYcNgSobSNH03_Q&s=10",
-    "name1": "OFI Crete",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqq2oy9ZcgrTo-ik6Ge5sRY1PrBC9aP2t4Jtq0914nQ&s=10",
-    "name2": "Anderlecht",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "20H00",
-    "date": "26/11/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZc_2lsjhWGO92yCLmFzPvsaN_5rAV_PE720WuTR5-5w&s=10",
+    "name1": "Union Sportive Le Pays Du Valois",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOifSmEGQgNdgzoCvS7D6duWPHx6wEcLmalpEzkrM4g&s=10",
+    "name2": "Valenciennes FC",
+    "champ": "Coupe de France",
+    "heure": "19H00",
+    "date": "27/11/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://assets.football-logos.cc/logos/netherlands/700x700/nec-nijmegen.0e3e1d60.png",
-    "name1": "NEC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1oZl-IzNUWpXJ1L-BMs9qTlK1XKq7cMU7bwJ0fgahA&s=10",
-    "name2": "Stade Rennais",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "20H00",
-    "date": "26/11/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTlpi3LnPclxxdTMK-nYyAV7fPFCSgoDhvAtxZrxttQ&s=10",
+    "name1": "Largs Thistle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EoQQNQHjzev4BR6OwdLklHyv7SitHiCoEG4jjC1R5w&s",
+    "name2": "Ayr United",
+    "champ": "Ecosse. FA Cup",
+    "heure": "19H30",
+    "date": "27/11/2026",
+    "pro": "Qualification Equipe 2"
   }
 ]
